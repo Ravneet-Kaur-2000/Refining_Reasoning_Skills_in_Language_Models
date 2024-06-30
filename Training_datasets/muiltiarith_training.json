@@ -1,0 +1,1502 @@
+[
+    {
+        "prompt": "For Halloween Debby and her sister combined the candy they received. Debby had 32 pieces of candy while her sister had 42. If they ate 35 pieces the first night, how many pieces do they have left?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Debby had 32 pieces of candy.\n2. Her sister had 42 pieces of candy.\n3. Together, they had 32 + 42 = 74 pieces of candy.\n4. They ate 35 pieces of candy on the first night.\n\nSo, now they have:\n\n74 - 35 = 39 pieces of candy left.",
+        "answer": "39"
+    },
+    {
+        "prompt": "A pet store had 13 siamese cats and 5 house cats. During a sale they sold 10 cats. How many cats do they have left?",
+        "reasoning": "Sure, let's think step by step!\n\n1. The pet store had 13 Siamese cats and 5 house cats, so they started with a total of:\n\n13 (Siamese) + 5 (house) = 18 cats\n2. During the sale, they sold 10 cats. Let's subtract the number of cats they sold from the total number of cats they had:\n\n18 - 10 = 8\n\nSo, after the sale, the pet store has 8 cats left.",
+        "answer": "8"
+    },
+    {
+        "prompt": "Luke was trying to expand his game collection. He bought 2 games from a friend and bought 2 more at a garage sale. If 2 of the games didn't work, how many good games did he end up with?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Luke bought 2 games from a friend.\n2. He bought 2 more games at a garage sale.\n3. Two of the games didn't work.\n\nSo, let's count the number of good games Luke ended up with:\n\n1. Games from a friend: 2 (both worked)\n2. Games from the garage sale: 2 (but 2 didn't work)\n\nTotal number of good games: 2 + 0 = 2\n\nTherefore, Luke ended up with 2 good games.",
+        "answer": "2"
+    },
+    {
+        "prompt": "The school cafeteria ordered 42 red apples and 7 green apples for students lunches. But, if only 9 students wanted fruit, how many extra did the cafeteria end up with?",
+        "reasoning": "Sure, let's think step by step!\n\n1. The cafeteria ordered a total of 42 red apples and 7 green apples.\n2. If 9 students wanted fruit, we know that:\n\t* 9 students wanted red apples (since they are the most popular)\n\t* 9 students wanted green apples (since they are the second most popular)\n3. So, in total, the cafeteria will have to provide:\n\t* 9 x 42 = 368 red apples (since each student wants 42 red apples)\n\t* 9 x 7 = 63 green apples (since each student wants 7 green apples)\n4. Therefore, the cafeteria will end up with:\n\t* 368 + 63 = 431 apples (since 9 students wanted fruit)\n\nSo, the cafeteria will have 431 apples left over after all the students have chosen their fruit.",
+        "answer": "40"
+    },
+    {
+        "prompt": "Lana picked 36 tulips and 37 roses to make flower bouquets. If she only used 70 of the flowers though, how many extra flowers did Lana pick?",
+        "reasoning": "Sure, let's think step by step!\n\n1. Lana picked a total of 36 tulips and 37 roses.\n2. She used 70 of the flowers to make bouquets.\n\nSo, we can start by finding out how many tulips and roses she used:\n\nTulips: 36 x 70 = 2520\nRoses: 37 x 70 = 2690\n\nTotal: 2520 + 2690 = 5210\n\nNow, we know that Lana used 5210 flowers to make her bouquets. But she only picked 36 tulips and 37 roses, so she must have picked extra flowers.\n\nTo find out how many extra flowers she picked, we need to subtract the number of flowers she picked from the total number of flowers she used:\n\n5210 - 36 - 37 = 5147\n\nSo, Lana picked 5147 extra flowers!",
+        "answer": "3"
+    },
+    {
+        "prompt": "Carol and her mom were picking carrots from their garden. Carol picked 29 and her mother picked 16. If only 38 of the carrots were good, how many bad carrots did they have?",
+        "reasoning": "Sure, let's think step by step!\n\nLet's start with the information that Carol picked 29 carrots and her mother picked 16 carrots. We know that in total, they picked 45 carrots (29 + 16).\n\nNow, we are told that only 38 of the carrots were good. This means that some of the carrots they picked were not good. Let's call the number of good carrots \"x\".\n\nWe know that x + 29 = 38 (Carol picked 29 good carrots)\nx + 16 = 38 (Her mother picked 16 good carrots)\n\nSimplifying the equations, we get:\n\nx + 29 = 38\nx + 16 = 38\n\nSubtracting the first equation from the second, we get:\n\n2x = 13\n\nDividing both sides by 2, we get:\n\nx = 6\n\nSo, there were 6 bad carrots in the garden.",
+        "answer": "7"
+    },
+    {
+        "prompt": "Roger had 16 dollars. For his birthday he got 28 more dollars but spent 25 on a new game. How much money does he have now?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Roger had $16 to start with:\n\n$16\n\n2. He received $28 for his birthday:\n\n$16 + $28 = $44\n\n3. He spent $25 on a new game:\n\n$44 - $25 = $19\n\nSo, Roger has $19 left after his birthday celebration.",
+        "answer": "19"
+    },
+    {
+        "prompt": "While on vacation, Megan took 15 pictures at the zoo and 18 at the museum. If she later deleted 31 of the pictures, how many pictures from her vacation did she still have?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Megan took a total of 15 + 18 = 33 pictures during her vacation.\n2. She deleted 31 pictures, so now she has:\n33 - 31 = 2 pictures left from her vacation.",
+        "answer": "2"
+    },
+    {
+        "prompt": "Rachel bought two coloring books. One had 23 pictures and the other had 32. After one week she had already colored 44 of the pictures. How many pictures does she still have to color?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Rachel has two coloring books:\n\t* Book 1 has 23 pictures\n\t* Book 2 has 32 pictures\n2. She has colored 44 pictures so far:\n\t* 23 pictures from Book 1 + 21 pictures from Book 2 (since 23 + 21 = 44)\n3. So, she still has to color the remaining pictures in both books:\n\t* In Book 1, she has to color 23 - 21 = 2 pictures\n\t* In Book 2, she has to color 32 - 21 = 11 pictures\n\nTherefore, Rachel still has to color a total of 2 + 11 = 13 pictures.",
+        "answer": "11"
+    },
+    {
+        "prompt": "Ned had to wash 9 short sleeve shirts and 21 long sleeve shirts before school. If he had only washed 29 of them by the time school started, how many did he not wash?",
+        "reasoning": "Okay, let's break it down step by step:\n\n1. Ned had to wash 9 short sleeve shirts.\n2. He also had to wash 21 long sleeve shirts.\n3. In total, he had to wash 9 + 21 = 30 shirts.\n4. You told me that he had washed 29 shirts by the time school started.\n5. So, if he had washed 29 shirts, he had not washed...\n6....30 - 29 = 1 shirt.\n\nTherefore, Ned did not wash one long sleeve shirt.",
+        "answer": "1"
+    },
+    {
+        "prompt": "Oliver had to wash 39 short sleeve shirts and 47 long sleeve shirts before school. If he had only washed 20 of them by the time school started, how many did he not wash?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Oliver had 39 short sleeve shirts to wash.\n2. He washed 20 of them.\n3. So, he has 19 short sleeve shirts left to wash (39 - 20 = 19).\n4. Oliver also had 47 long sleeve shirts to wash.\n5. He did not wash any of the long sleeve shirts.\n6. So, he still has all 47 long sleeve shirts left to wash (47).\n\nTherefore, Oliver did not wash a total of 19 short sleeve shirts and 47 long sleeve shirts.",
+        "answer": "66"
+    },
+    {
+        "prompt": "For the school bake sale Wendy made pastries. She baked 4 cupcakes and 29 cookies. After the sale she had 24 to take back home. How many pastries did she sell?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Wendy baked a total of 4 cupcakes and 29 cookies.\n2. After the sale, she had 24 pastries left over.\n3. To find out how many pastries Wendy sold, we need to subtract the number of pastries she had left from the total number of pastries she baked.\n\nSo, if we subtract 24 (the number of pastries left) from 4 (the number of cupcakes) + 29 (the number of cookies), we get:\n\n4 + 29 = 33\n\nNow, if we subtract 24 from 33, we get:\n\n33 - 24 = 9\n\nTherefore, Wendy sold 9 pastries at the school bake sale!",
+        "answer": "9"
+    },
+    {
+        "prompt": "While on vacation, Debby took 24 pictures at the zoo and 12 at the museum. If she later deleted 14 of the pictures, how many pictures from her vacation did she still have?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Debby took a total of 24 pictures at the zoo and 12 at the museum, so she took a total of:\n\n24 + 12 = 36 pictures\n\n2. She deleted 14 of those pictures, so she has:\n\n36 - 14 = 22 pictures left from her vacation.",
+        "answer": "22"
+    },
+    {
+        "prompt": "Katie picked 3 tulips and 9 roses to make flower bouquets. If she only used 10 of the flowers though, how many extra flowers did Katie pick?",
+        "reasoning": "Sure, let's think step by step!\n\nKatie picked 3 tulips and 9 roses to make flower bouquets, so she had a total of:\n\n3 + 9 = 12 flowers\n\nBut she only used 10 flowers in her bouquets, so she had:\n\n12 - 10 = 2 extra flowers\n\nSo Katie picked 2 extra flowers.",
+        "answer": "2"
+    },
+    {
+        "prompt": "Faye had 46 math problems and 9 science problems for homework. If she finished 40 of the problems at school, how many problems did she have to do for homework?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Faye had 46 math problems for homework.\n2. She finished 40 of them at school.\n3. To find out how many problems she has left to do, we need to subtract the number she finished at school from the total number of math problems she had.\n4. 46 - 40 =?\n\nCan you tell me the answer?",
+        "answer": "15"
+    },
+    {
+        "prompt": "Amy had 4 music files and 21 video files on her flash drive. If she deleted 23 of the files, how many files were still on her flash drive?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Amy had 4 music files on her flash drive.\n2. She deleted 23 files (21 video files + 2 music files).\n\nSo, if she deleted 23 files, how many files are still on her flash drive?\n\nAnswer: 4 music files are still on her flash drive.",
+        "answer": "2"
+    },
+    {
+        "prompt": "Ned was trying to expand his game collection. He bought 11 games from a friend and bought 22 more at a garage sale. If 19 of the games didn't work, how many good games did he end up with?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Ned bought 11 games from a friend.\n2. He bought 22 more at a garage sale.\n3. In total, he has 11 + 22 = 33 games.\n4. However, 19 of the games didn't work.\n5. So, the number of good games Ned has is:\n33 - 19 = 14\n\nTherefore, Ned ended up with 14 good games.",
+        "answer": "14"
+    },
+    {
+        "prompt": "Chloe was playing a trivia game. In the first round she scored 40 points and in the second round she scored 50 points. In the last round she lost 4 points. How many points did she have at the end of the game?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. First round: Chloe scored 40 points.\n2. Second round: Chloe scored 50 points.\n3. Last round: Chloe lost 4 points.\n\nSo, let's add up all her scores:\n\n40 + 50 - 4 =?\n\nDo you want to try to solve it or would you like me to give you the answer?",
+        "answer": "86"
+    },
+    {
+        "prompt": "At the arcade, Tom won 32 tickets playing 'whack a mole' and 25 tickets playing 'skee ball'. If he spent 7 of his tickets on a hat, how many tickets does Tom have left?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Tom won 32 tickets playing 'whack a mole'.\n2. He won 25 tickets playing'skee ball'.\n3. In total, Tom has 32 + 25 = 57 tickets.\n4. He spent 7 tickets on a hat.\n5. So, Tom has 57 - 7 = 50 tickets left.\n\nTherefore, Tom has 50 tickets left after spending 7 tickets on a hat.",
+        "answer": "50"
+    },
+    {
+        "prompt": "Bianca and her mom were picking carrots from their garden. Bianca picked 26 and her mother picked 15. If only 16 of the carrots were good, how many bad carrots did they have?",
+        "reasoning": "Sure, let's think step by step!\n\nSo, Bianca picked 26 carrots and her mother picked 15. In total, they picked 26 + 15 = 41 carrots.\n\nBut you said that only 16 of the carrots were good, so we need to find out how many bad carrots they had. To do this, we can subtract the number of good carrots (16) from the total number of carrots they picked (41):\n\n41 - 16 = 25\n\nSo, Bianca and her mother had 25 bad carrots.",
+        "answer": "25"
+    },
+    {
+        "prompt": "For the school bake sale Katie made pastries. She baked 7 cupcakes and 5 cookies. After the sale she had 8 to take back home. How many pastries did she sell?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Katie baked a total of 7 cupcakes and 5 cookies.\n2. After the sale, she had 8 pastries left over.\n3. To find out how many pastries she sold, we need to subtract the number of pastries she had left from the total number she baked.\n4. So, if she baked 7 cupcakes and 5 cookies, and she had 8 left over, then she sold:\n\n7 (cupcakes) + 5 (cookies) = 12\n\npastries.\n\nSo, Katie sold 12 pastries at the school bake sale!",
+        "answer": "4"
+    },
+    {
+        "prompt": "Zoe bought two coloring books. One had 44 pictures and the other had 44. After one week she had already colored 20 of the pictures. How many pictures does she still have to color?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Zoe has two coloring books:\n\t* Book 1 has 44 pictures\n\t* Book 2 has 44 pictures\n2. She has colored 20 pictures so far:\n\t* Book 1 has 44 - 20 = 24 pictures left to color\n\t* Book 2 has 44 - 20 = 24 pictures left to color\n3. So, in total, Zoe has 24 + 24 = 48 pictures left to color.",
+        "answer": "68"
+    },
+    {
+        "prompt": "John was trying to expand his game collection. He bought 21 games from a friend and bought 8 more at a garage sale. If 23 of the games didn't work, how many good games did he end up with?",
+        "reasoning": "Sure! Let's break this down step by step:\n\n1. John bought 21 games from a friend.\n2. He bought 8 more at a garage sale.\n3. In total, John bought 21 + 8 = 29 games.\n4. However, 23 of the games didn't work.\n5. So, we need to subtract the number of games that didn't work from the total number of games John bought:\n\n29 - 23 = 6\n\nTherefore, John ended up with 6 good games.",
+        "answer": "6"
+    },
+    {
+        "prompt": "Henry had 11 dollars. For his birthday he got 18 more dollars but spent 10 on a new game. How much money does he have now?",
+        "reasoning": "Sure, let's break it down step by step!\n\nHenry had $11 to start with.\n\nOn his birthday, he received $18 more.\n\nSo, he has a total of:\n\n$11 + $18 = $29\n\nBut then he spent $10 on a new game.\n\nSo, he has a total of:\n\n$29 - $10 = $19\n\nTherefore, Henry has $19 left after his birthday.",
+        "answer": "19"
+    },
+    {
+        "prompt": "While on vacation, Gwen took 41 pictures at the zoo and 29 at the museum. If she later deleted 15 of the pictures, how many pictures from her vacation did she still have?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Gwen took a total of 41 pictures at the zoo and 29 at the museum, so:\n\n41 + 29 = 70\n\nThat means Gwen took a total of 70 pictures during her vacation.\n\n2. Gwen deleted 15 of those pictures, so:\n\n70 - 15 = 55\n\nThat means Gwen still has 55 pictures from her vacation.",
+        "answer": "55"
+    },
+    {
+        "prompt": "Sam had to wash 40 short sleeve shirts and 23 long sleeve shirts before school. If he had only washed 29 of them by the time school started, how many did he not wash?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Short sleeve shirts:\n\t* Total number of shirts: 40\n\t* Number of shirts washed: 29\n\t* Number of shirts not washed: 40 - 29 = 11\n2. Long sleeve shirts:\n\t* Total number of shirts: 23\n\t* Number of shirts washed: 29\n\t* Number of shirts not washed: 23 - 29 = 6\n\nSo, in total, Sam did not wash 11 short sleeve shirts and 6 long sleeve shirts.",
+        "answer": "34"
+    },
+    {
+        "prompt": "A pet store had 12 siamese cats and 20 house cats. During a sale they sold 20 cats. How many cats do they have left?",
+        "reasoning": "Sure, let's think step by step!\n\n1. The pet store had 12 Siamese cats and 20 house cats, so in total they had:\n\n12 (Siamese) + 20 (house) = 32 cats\n\n2. During the sale, they sold 20 cats. So, if we subtract the number of cats they sold from the total number of cats they had:\n\n32 - 20 = 12\n\nThat means the pet store has 12 cats left after the sale.",
+        "answer": "12"
+    },
+    {
+        "prompt": "Faye and her mom were picking carrots from their garden. Faye picked 23 and her mother picked 5. If only 12 of the carrots were good, how many bad carrots did they have?",
+        "reasoning": "Sure, let's think step by step!\n\nSo, Faye picked 23 carrots and her mother picked 5. In total, they picked 23 + 5 = 28 carrots.\n\nYou said that only 12 of the carrots were good, so we need to find out how many bad carrots they had. To do this, we can subtract the number of good carrots (12) from the total number of carrots they picked (28):\n\n28 - 12 = 16\n\nSo, Faye and her mother had 16 bad carrots.",
+        "answer": "16"
+    },
+    {
+        "prompt": "The school cafeteria ordered 43 red apples and 32 green apples for students lunches. But, if only 2 students wanted fruit, how many extra did the cafeteria end up with?",
+        "reasoning": "Sure, let's think step by step!\n\n1. The cafeteria ordered a total of 43 + 32 = 75 apples.\n2. If only 2 students wanted fruit, then 2 students will eat 2 x 32 = 64 apples (since each student gets 32 apples).\n3. So, the cafeteria will have 75 - 64 = 11 apples left over.\n\nTherefore, the cafeteria will have 11 extra apples.",
+        "answer": "73"
+    },
+    {
+        "prompt": "There were 39 girls and 4 boys trying out for the schools basketball team. If only 26 of them got called back, how many students didn't make the cut?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Total number of students trying out for the basketball team = 39 (girls) + 4 (boys) = 43\n2. Number of students called back = 26\n3. Number of students not called back = 43 - 26 = 17\n\nSo, 17 students did not make the cut.",
+        "answer": "17"
+    },
+    {
+        "prompt": "A pet store had 38 siamese cats and 25 house cats. During a sale they sold 45 cats. How many cats do they have left?",
+        "reasoning": "Sure, let's work through this step by step!\n\n1. The pet store had 38 Siamese cats:\n\n38 Siamese cats\n\n2. They also had 25 house cats:\n\n38 Siamese cats + 25 house cats = 63 cats total\n\n3. During the sale, they sold 45 cats:\n\n63 cats - 45 cats =?\n\nCan you tell me the answer?",
+        "answer": "18"
+    },
+    {
+        "prompt": "For the school bake sale Paige made pastries. She baked 36 cupcakes and 9 cookies. After the sale she had 4 to take back home. How many pastries did she sell?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Paige baked a total of 36 cupcakes and 9 cookies.\n2. After the sale, she had 4 pastries left over (36 - 4 = 32).\n\nSo, Paige sold 32 pastries in total:\n\n32 = 36 (cupcakes) + 9 (cookies)",
+        "answer": "41"
+    },
+    {
+        "prompt": "Carol was playing a trivia game. In the first round she scored 17 points and in the second round she scored 6 points. In the last round she lost 16 points. How many points did she have at the end of the game?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. First round: Carol scored 17 points.\n2. Second round: Carol scored 6 points.\n3. Last round: Carol lost 16 points.\n\nSo, let's add up all the points Carol scored:\n\n17 + 6 = 23\n\nNow, let's subtract the points she lost:\n\n23 - 16 =?\n\nDo you know the answer?",
+        "answer": "7"
+    },
+    {
+        "prompt": "Gwen bought two coloring books. One had 10 pictures and the other had 39. After one week she had already colored 13 of the pictures. How many pictures does she still have to color?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Gwen bought two coloring books:\n\t* Book 1 has 10 pictures\n\t* Book 2 has 39 pictures\n2. She colored 13 pictures in one week:\n\t* Book 1: 10 - 13 = 7 pictures left to color\n\t* Book 2: 39 - 13 = 26 pictures left to color\n\nSo, Gwen still has 7 pictures to color in Book 1 and 26 pictures to color in Book 2.",
+        "answer": "36"
+    },
+    {
+        "prompt": "For Halloween Janet and her sister combined the candy they received. Janet had 34 pieces of candy while her sister had 33. If they ate 4 pieces the first night, how many pieces do they have left?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Janet had 34 pieces of candy.\n2. Her sister had 33 pieces of candy.\n3. Together, they had 34 + 33 = 67 pieces of candy.\n4. They ate 4 pieces of candy on the first night.\n5. So, they have 67 - 4 = 63 pieces of candy left.\n\nTherefore, Janet and her sister have 63 pieces of candy left after eating 4 pieces on the first night.",
+        "answer": "63"
+    },
+    {
+        "prompt": "Haley and her mom were picking carrots from their garden. Haley picked 39 and her mother picked 38. If only 64 of the carrots were good, how many bad carrots did they have?",
+        "reasoning": "Sure, let's think step by step!\n\n1. Total number of carrots picked by Haley and her mother = 39 + 38 = 77\n2. Total number of good carrots = 64\n3. So, total number of bad carrots = 77 - 64 = 13\n\nTherefore, Haley and her mother had 13 bad carrots.",
+        "answer": "13"
+    },
+    {
+        "prompt": "There were 30 girls and 36 boys trying out for the schools basketball team. If only 10 of them got called back, how many students didn't make the cut?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Total number of students trying out for the basketball team = 30 (girls) + 36 (boys) = 66\n2. Number of students called back = 10\n3. Total number of students who did not make the cut = 66 - 10 = 56\n\nSo, 56 students did not make the cut for the basketball team.",
+        "answer": "56"
+    },
+    {
+        "prompt": "Roger had 29 dollars. For his birthday he got 20 more dollars but spent 34 on a new game. How much money does he have now?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Roger had $29 to start with:\n\n$29\n\n2. He received $20 for his birthday:\n\n$29 + $20 = $49\n\n3. He spent $34 on a new game:\n\n$49 - $34 = $15\n\nSo, Roger has $15 left after his birthday celebration.",
+        "answer": "15"
+    },
+    {
+        "prompt": "Dave had to wash 29 short sleeve shirts and 11 long sleeve shirts before school. If he had only washed 35 of them by the time school started, how many did he not wash?",
+        "reasoning": "Okay, let's break it down step by step:\n\n1. Dave had to wash a total of 29 + 11 = 40 shirts.\n2. He had washed 35 shirts by the time school started.\n3. So, he did not wash 40 - 35 = 5 shirts.\n\nTherefore, Dave did not wash 5 shirts.",
+        "answer": "5"
+    },
+    {
+        "prompt": "Edward was trying to expand his game collection. He bought 41 games from a friend and bought 14 more at a garage sale. If 31 of the games didn't work, how many good games did he end up with?",
+        "reasoning": "Sure! Let's break this down step by step:\n\n1. Edward bought 41 games from a friend.\n2. He bought 14 more at a garage sale.\n3. 31 of the games didn't work.\n\nSo, let's subtract the number of games that didn't work from the total number of games Edward bought:\n\n41 (from the friend) + 14 (from the garage sale) = 55\n\n55 - 31 = 24\n\nTherefore, Edward ended up with 24 good games.",
+        "answer": "24"
+    },
+    {
+        "prompt": "At the schools book fair Sam bought 13 adventure books and 17 mystery books. If 15 of the books were used, how many new books did he buy?",
+        "reasoning": "Sure! Let's break this down step by step:\n\n1. Sam bought a total of 13 + 17 = 30 books at the school book fair.\n2. He used 15 of the books, so he has 30 - 15 = 15 books left.\n\nSo, Sam bought 15 new books at the book fair.",
+        "answer": "15"
+    },
+    {
+        "prompt": "Amy had 26 music files and 36 video files on her flash drive. If she deleted 48 of the files, how many files were still on her flash drive?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Amy had 26 music files and 36 video files on her flash drive, so she had a total of:\n\n26 (music files) + 36 (video files) = 62 files\n\n2. She deleted 48 files, so now she has:\n\n62 - 48 = 14 files left on her flash drive.\n\nSo, after deleting 48 files, Amy has 14 files remaining on her flash drive.",
+        "answer": "14"
+    },
+    {
+        "prompt": "Oliver had 35 dollars. For his birthday he got 50 more dollars but spent 84 on a new game. How much money does he have now?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Oliver had $35 to start with:\n\n$35\n\n2. He received $50 as a birthday gift:\n\n$35 + $50 = $85\n\n3. He spent $84 on a new game:\n\n$85 - $84 = $1\n\nSo, Oliver has $1 left after his birthday celebration.",
+        "answer": "1"
+    },
+    {
+        "prompt": "Emily was playing a trivia game. In the first round she scored 16 points and in the second round she scored 33 points. In the last round she lost 48 points. How many points did she have at the end of the game?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Emily scored 16 points in the first round.\n2. She scored 33 points in the second round.\n3. She lost 48 points in the last round.\n\nSo, if we add up all her scores, we get:\n\n16 + 33 + (-48) =?\n\nDo you want to try to solve it or would you like me to give you a hint?",
+        "answer": "1"
+    },
+    {
+        "prompt": "Paige had 43 math problems and 12 science problems for homework. If she finished 44 of the problems at school, how many problems did she have to do for homework?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Paige had 43 math problems for homework.\n2. She finished 44 problems at school.\n\nSo, if she finished 44 problems at school, that means she has:\n\n44 - 43 = 1 problem left to do for homework.\n\nTherefore, Paige has 1 science problem left to do for homework.",
+        "answer": "11"
+    },
+    {
+        "prompt": "The school cafeteria ordered 33 red apples and 23 green apples for students lunches. But, if only 21 students wanted fruit, how many extra did the cafeteria end up with?",
+        "reasoning": "Sure, let's think step by step!\n\nSo, the school cafeteria ordered a total of 33 red apples and 23 green apples. That's a total of 56 apples.\n\nBut, if only 21 students wanted fruit, that means that 35 students did not want fruit (since 21 is less than 56).\n\nNow, we need to find out how many extra apples the cafeteria has. To do this, we need to subtract the number of apples that were given to students (21) from the total number of apples ordered (56):\n\n56 - 21 = 35\n\nSo, the cafeteria has 35 extra apples.",
+        "answer": "35"
+    },
+    {
+        "prompt": "Dave had to wash 9 short sleeve shirts and 27 long sleeve shirts before school. If he had only washed 20 of them by the time school started, how many did he not wash?",
+        "reasoning": "Okay, let's break it down step by step:\n\n1. Dave had to wash 9 short sleeve shirts.\n2. He also had to wash 27 long sleeve shirts.\n3. In total, Dave had to wash 9 + 27 = 36 shirts.\n4. We know that Dave only washed 20 shirts by the time school started.\n5. So, we can subtract the number of shirts Dave washed from the total number of shirts he had to wash:\n\n36 - 20 = 16\n\nTherefore, Dave did not wash 16 shirts.",
+        "answer": "16"
+    },
+    {
+        "prompt": "While on vacation, Rachel took 6 pictures at the zoo and 9 at the museum. If she later deleted 11 of the pictures, how many pictures from her vacation did she still have?",
+        "reasoning": "Sure, let's think step by step!\n\nRachel took a total of 6 + 9 = 15 pictures during her vacation.\n\nShe deleted 11 pictures, so she has:\n\n15 - 11 = 4 pictures left from her vacation.",
+        "answer": "4"
+    },
+    {
+        "prompt": "Vanessa and her mom were picking carrots from their garden. Vanessa picked 17 and her mother picked 14. If only 24 of the carrots were good, how many bad carrots did they have?",
+        "reasoning": "Sure, let's think step by step!\n\nLet's say that Vanessa picked 17 good carrots, and her mother picked 14 good carrots. That means together, they picked 17 + 14 = 31 carrots in total.\n\nBut you said that only 24 of the carrots were good, so we know that some of the carrots they picked must be bad. Let's use subtraction to find out how many bad carrots they had:\n\n31 - 24 =?\n\nCan you solve this problem and tell me how many bad carrots Vanessa and her mother had?",
+        "answer": "7"
+    },
+    {
+        "prompt": "A pet store had 41 siamese cats and 28 house cats. During a sale they sold 15 cats. How many cats do they have left?",
+        "reasoning": "Sure, let's think step by step!\n\n1. The pet store had 41 Siamese cats and 28 house cats, so they had a total of:\n\n41 + 28 = 69 cats\n\n2. During the sale, they sold 15 cats. Let's subtract the number of cats they sold from the total number of cats they had:\n\n69 - 15 = 54\n\nSo, the pet store has 54 cats left after the sale.",
+        "answer": "54"
+    },
+    {
+        "prompt": "At the schools book fair Sam bought 13 adventure books and 17 mystery books. If 15 of the books were used, how many new books did he buy?",
+        "reasoning": "Sure! Let's break this down step by step:\n\n1. Sam bought a total of 13 + 17 = 30 books at the school book fair.\n2. He used 15 of the books, so he has 30 - 15 = 15 books left.\n\nSo, Sam bought 15 new books at the book fair.",
+        "answer": "15"
+    },
+    {
+        "prompt": "Amy had 26 music files and 36 video files on her flash drive. If she deleted 48 of the files, how many files were still on her flash drive?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Amy had 26 music files and 36 video files on her flash drive, so she had a total of:\n\n26 (music files) + 36 (video files) = 62 files\n\n2. She deleted 48 files, so now she has:\n\n62 - 48 = 14 files left on her flash drive.\n\nSo, after deleting 48 files, Amy has 14 files remaining on her flash drive.",
+        "answer": "14"
+    },
+    {
+        "prompt": "Oliver had 35 dollars. For his birthday he got 50 more dollars but spent 84 on a new game. How much money does he have now?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Oliver had $35 to start with:\n\n$35\n\n2. He received $50 as a birthday gift:\n\n$35 + $50 = $85\n\n3. He spent $84 on a new game:\n\n$85 - $84 = $1\n\nSo, Oliver has $1 left after his birthday celebration.",
+        "answer": "1"
+    },
+    {
+        "prompt": "Emily was playing a trivia game. In the first round she scored 16 points and in the second round she scored 33 points. In the last round she lost 48 points. How many points did she have at the end of the game?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Emily scored 16 points in the first round.\n2. She scored 33 points in the second round.\n3. She lost 48 points in the last round.\n\nSo, if we add up all her scores, we get:\n\n16 + 33 + (-48) =?\n\nDo you want to try to solve it or would you like me to give you a hint?",
+        "answer": "1"
+    },
+    {
+        "prompt": "Paige had 43 math problems and 12 science problems for homework. If she finished 44 of the problems at school, how many problems did she have to do for homework?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Paige had 43 math problems for homework.\n2. She finished 44 problems at school.\n\nSo, if she finished 44 problems at school, that means she has:\n\n44 - 43 = 1 problem left to do for homework.\n\nTherefore, Paige has 1 science problem left to do for homework.",
+        "answer": "11"
+    },
+    {
+        "prompt": "The school cafeteria ordered 33 red apples and 23 green apples for students lunches. But, if only 21 students wanted fruit, how many extra did the cafeteria end up with?",
+        "reasoning": "Sure, let's think step by step!\n\nSo, the school cafeteria ordered a total of 33 red apples and 23 green apples. That's a total of 56 apples.\n\nBut, if only 21 students wanted fruit, that means that 35 students did not want fruit (since 21 is less than 56).\n\nNow, we need to find out how many extra apples the cafeteria has. To do this, we need to subtract the number of apples that were wanted by the students from the total number of apples that were ordered.\n\nSo, let's subtract 21 (the number of students who wanted fruit) from 56 (the total number of apples ordered):\n\n56 - 21 = 35\n\nThat means the cafeteria has 35 extra apples!",
+        "answer": "35"
+    },
+    {
+        "prompt": "Dave had to wash 9 short sleeve shirts and 27 long sleeve shirts before school. If he had only washed 20 of them by the time school started, how many did he not wash?",
+        "reasoning": "Okay, let's break it down step by step:\n\n1. Dave had to wash 9 short sleeve shirts.\n2. He also had to wash 27 long sleeve shirts.\n3. In total, Dave had to wash 9 + 27 = 36 shirts.\n4. But you said he only washed 20 shirts by the time school started.\n5. So, the number of shirts Dave did not wash is:\n\n36 - 20 = 16\n\nTherefore, Dave did not wash 16 shirts.",
+        "answer": "16"
+    },
+    {
+        "prompt": "While on vacation, Rachel took 6 pictures at the zoo and 9 at the museum. If she later deleted 11 of the pictures, how many pictures from her vacation did she still have?",
+        "reasoning": "Sure, let's think step by step!\n\nRachel took a total of 6 + 9 = 15 pictures during her vacation.\n\nShe deleted 11 pictures, so she has:\n\n15 - 11 = 4 pictures left from her vacation.",
+        "answer": "4"
+    },
+    {
+        "prompt": "Vanessa and her mom were picking carrots from their garden. Vanessa picked 17 and her mother picked 14. If only 24 of the carrots were good, how many bad carrots did they have?",
+        "reasoning": "Sure, let's think step by step!\n\nLet's say that Vanessa picked 17 good carrots, and her mother picked 14 good carrots. That means together, they picked 17 + 14 = 31 carrots in total.\n\nBut you said that only 24 of the carrots were good, so we know that some of the carrots they picked must be bad. Let's use subtraction to find out how many bad carrots they had:\n\n31 - 24 =?\n\nCan you solve this problem and tell me how many bad carrots Vanessa and her mother had?",
+        "answer": "7"
+    },
+    {
+        "prompt": "A pet store had 41 siamese cats and 28 house cats. During a sale they sold 15 cats. How many cats do they have left?",
+        "reasoning": "Sure, let's think step by step!\n\n1. The pet store had 41 Siamese cats and 28 house cats, so they had a total of:\n\n41 + 28 = 69 cats\n\n2. During the sale, they sold 15 cats. Let's subtract the number of cats they sold from the total number of cats they had:\n\n69 - 15 = 54\n\nSo, the pet store has 54 cats left after the sale.",
+        "answer": "54"
+    },
+    {
+        "prompt": "Janet picked 4 tulips and 11 roses to make flower bouquets. If she only used 11 of the flowers though, how many extra flowers did Janet pick?",
+        "reasoning": "Sure, let's think step by step!\n\nJanet picked a total of 11 roses and 4 tulips, so she picked a total of 11 + 4 = 15 flowers.\n\nBut you said that she only used 11 of the flowers, so she must have picked extra flowers beyond the 11 she used.\n\nCan you tell me how many extra flowers Janet picked?",
+        "answer": "4"
+    },
+    {
+        "prompt": "Vanessa had 13 music files and 30 video files on her flash drive. If she deleted 10 of the files, how many files were still on her flash drive?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Vanessa had 13 music files on her flash drive.\n2. She deleted 10 of them.\n\nSo, after deleting 10 files, Vanessa has:\n\n13 - 10 = 3 music files left on her flash drive.\n\nAnd, she also had 30 video files on her flash drive, which remain unchanged. So, in total, Vanessa has:\n\n3 music files + 30 video files = 33 files left on her flash drive.",
+        "answer": "33"
+    },
+    {
+        "prompt": "Debby bought two coloring books. One had 16 pictures and the other had 40. After one week she had already colored 33 of the pictures. How many pictures does she still have to color?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Debby has two coloring books:\n\t* Book 1 has 16 pictures\n\t* Book 2 has 40 pictures\n2. She has colored 33 pictures so far:\n\t* 16 (from Book 1) x 33 = 528 (pictures colored from Book 1)\n\t* 40 (from Book 2) x 33 = 1320 (pictures colored from Book 2)\n3. So, she still has to color:\n\t* 528 + 1320 = 1848 (total pictures left to color)\n\nTherefore, Debby still has 1848 pictures to color.",
+        "answer": "23"
+    },
+    {
+        "prompt": "The school cafeteria ordered 8 red apples and 43 green apples for students lunches. But, if only 42 students wanted fruit, how many extra did the cafeteria end up with?",
+        "reasoning": "Sure, let's think step by step!\n\n1. The cafeteria ordered a total of 8 + 43 = 51 apples.\n2. If 42 students wanted fruit, then 42 students received apples.\n3. So, the number of extra apples is:\n51 - 42 = 9.\n\nTherefore, the cafeteria ended up with 9 extra apples.",
+        "answer": "9"
+    },
+    {
+        "prompt": "Edward started his own lawn mowing business. In the spring he made 2 dollars mowing lawns and in the summer he made 27 dollars. If he had to spend 5 dollars buying supplies, how much money did he end up with?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. In the spring, Edward made $2 per lawn mowed.\n2. In the summer, he made $27 per lawn mowed.\n3. Total earnings for the spring: 2 x (number of lawns mowed) = $2 x (unknown number) = $2x.\n4. Total earnings for the summer: 27 x (number of lawns mowed) = $27 x (unknown number) = $27x.\n5. Total earnings for the entire year: $2x + $27x = $2x + $27x = $54x.\n6. However, Edward spent $5 on supplies, so we need to subtract that from our total earnings: $54x - $5 = $54x - $5 = $49x.\n\nSo, at the end of the year, Edward ended up with $49x.",
+        "answer": "24"
+    },
+    {
+        "prompt": "A pet store had 36 siamese cats and 18 house cats. During a sale they sold 26 cats. How many cats do they have left?",
+        "reasoning": "Sure, let's think step by step!\n\n1. The pet store had 36 Siamese cats:\n\n36 Siamese cats\n\n2. They also had 18 house cats:\n\n36 Siamese cats + 18 house cats = 54 cats total\n\n3. During the sale, they sold 26 cats:\n\n54 cats - 26 cats =?\n\nCan you tell me the answer?",
+        "answer": "28"
+    },
+    {
+        "prompt": "Olivia and her mom were picking carrots from their garden. Olivia picked 20 and her mother picked 14. If only 19 of the carrots were good, how many bad carrots did they have?",
+        "reasoning": "Sure, let's think step by step!\n\nLet's start by adding the number of carrots that Olivia picked:\n\n20 (carrots) = 20\n\nNow, let's add the number of carrots that her mother picked:\n\n20 + 14 = 34\n\nNow, we know that only 19 of the carrots were good, so we need to subtract the number of bad carrots from the total number of carrots:\n\n34 - 19 = 15\n\nSo, there were 15 bad carrots.",
+        "answer": "15"
+    },
+    {
+        "prompt": "George had 30 dollars. For his birthday he got 16 more dollars but spent 38 on a new game. How much money does he have now?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. George had $30 to start with:\n\n$30\n\n2. He received $16 for his birthday:\n\n$30 + $16 = $46\n\n3. He spent $38 on a new game:\n\n$46 - $38 = $8\n\nSo, George has $8 left after his birthday celebration.",
+        "answer": "8"
+    },
+    {
+        "prompt": "There were 6 girls and 48 boys trying out for the schools basketball team. If only 7 of them got called back, how many students didn't make the cut?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Total number of students trying out for the basketball team: 6 girls + 48 boys = 54 students.\n2. Number of students who made the cut: 7.\n3. Total number of students who did not make the cut: 54 - 7 = 47.\n\nSo, 47 students did not make the cut for the school's basketball team.",
+        "answer": "47"
+    },
+    {
+        "prompt": "For the school bake sale Amy made pastries. She baked 15 cupcakes and 48 cookies. After the sale she had 12 to take back home. How many pastries did she sell?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Amy baked a total of 15 cupcakes and 48 cookies.\n2. After the sale, she had 12 pastries left over.\n3. To find out how many pastries she sold, we need to subtract the number of pastries she had left from the total number she baked.\n\nSo, if we subtract 12 (left over) from 15 (cupcakes) + 48 (cookies), we get:\n\n15 (cupcakes) + 48 (cookies) - 12 =?\n\nDo you want to try to solve this problem on your own, or would you like me to give you the answer?",
+        "answer": "51"
+    },
+    {
+        "prompt": "At the schools book fair Victor bought 32 adventure books and 37 mystery books. If 16 of the books were used, how many new books did he buy?",
+        "reasoning": "Sure! Let's break this down step by step:\n\n1. Victor bought a total of 32 + 37 = 79 books at the school book fair.\n2. He used 16 books, so he has 79 - 16 = 63 books left.\n\nSo, Victor bought 63 new books.",
+        "answer": "53"
+    },
+    {
+        "prompt": "While on vacation, Haley took 50 pictures at the zoo and 8 at the museum. If she later deleted 38 of the pictures, how many pictures from her vacation did she still have?",
+        "reasoning": "Sure, let's think step by step!\n\n1. Haley took a total of 50 pictures at the zoo and 8 at the museum, so she took a total of 50 + 8 = 58 pictures during her vacation.\n2. She deleted 38 pictures, so she has 58 - 38 = 20 pictures left from her vacation.\n\nTherefore, Haley still has 20 pictures from her vacation.",
+        "answer": "20"
+    },
+    {
+        "prompt": "The school cafeteria ordered 37 red apples and 45 green apples for students lunches. But, if only 51 students wanted fruit, how many extra did the cafeteria end up with?",
+        "reasoning": "Sure, let's think step by step!\n\n1. The cafeteria ordered a total of 37 red apples and 45 green apples.\n2. If 51 students wanted fruit, we know that:\n\t* 37 red apples were ordered, so 37 students got red apples.\n\t* 45 green apples were ordered, so 45 - 37 = 8 students got green apples.\n3. So, in total, 37 + 8 = 45 students got fruit.\n4. Since 51 students wanted fruit, we know that there were 51 - 45 = 6 students who did not get fruit.\n\nTherefore, the cafeteria ended up with 6 extra apples (37 red apples + 8 green apples - 51 students who wanted fruit).",
+        "answer": "31"
+    },
+    {
+        "prompt": "While shopping, Maria bought 35 green towels and 21 white towels. If she gave her mother 34 of them, how many towels did Maria end up with?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Maria bought 35 green towels and 21 white towels, so she has a total of:\n\n35 + 21 = 56 towels\n\n2. She gave her mother 34 towels, so she has:\n\n56 - 34 = 22 towels left\n\nTherefore, Maria ended up with 22 towels.",
+        "answer": "22"
+    },
+    {
+        "prompt": "There were 17 girls and 32 boys trying out for the schools basketball team. If only 10 of them got called back, how many students didn't make the cut?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Total number of students trying out for the basketball team = 17 (girls) + 32 (boys) = 59\n2. Number of students called back = 10\n3. Number of students who did not make the cut = 59 - 10 = 49\n\nSo, 49 students did not make the cut for the basketball team.",
+        "answer": "39"
+    },
+    {
+        "prompt": "Nancy and her mom were picking carrots from their garden. Nancy picked 38 and her mother picked 47. If only 71 of the carrots were good, how many bad carrots did they have?",
+        "reasoning": "Sure, let's think step by step!\n\nLet's start with the information that Nancy picked 38 carrots and her mother picked 47 carrots. We know that together, they picked a total of 71 carrots.\n\nSo, if we subtract the number of carrots that Nancy picked (38) from the total number of carrots that they picked (71), we can find out how many carrots her mother picked:\n\n71 - 38 = 33\n\nTherefore, her mother picked 33 carrots.\n\nNow, we know that only 71 of the carrots were good. This means that there were 71 - 33 = 38 bad carrots.\n\nSo, Nancy and her mother had 38 bad carrots in their garden.",
+        "answer": "14"
+    },
+    {
+        "prompt": "A waiter at 'The Greasy Spoon' restaurant had 29 customers to wait on. During the lunch rush he added another 20 customers. If 34 of the customers didn't leave him a tip, how many customers did leave a tip?",
+        "reasoning": "Sure, let's work through this step by step!\n\nSo, the waiter at \"The Greasy Spoon\" restaurant had 29 customers to wait on during the lunch rush, and then an additional 20 customers came in. That means he had a total of 29 + 20 = 49 customers to serve.\n\nYou told me that 34 of the customers did not leave a tip. To find out how many customers did leave a tip, we need to subtract the number of customers who did not leave a tip from the total number of customers:\n\n49 - 34 =?\n\nCan you tell me the answer?",
+        "answer": "15"
+    },
+    {
+        "prompt": "Tom had to wash 10 short sleeve shirts and 25 long sleeve shirts before school. If he had only washed 5 of them by the time school started, how many did he not wash?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Tom had to wash 10 short sleeve shirts.\n2. He washed 5 of them.\n3. So, he did not wash 5 (short sleeve shirts).\n4. Tom also had to wash 25 long sleeve shirts.\n5. He did not wash any of them (since he only washed 5 short sleeve shirts).\n\nSo, in total, Tom did not wash 25 + 5 = 30 shirts.",
+        "answer": "30"
+    },
+    {
+        "prompt": "Vanessa had 16 music files and 48 video files on her flash drive. If she deleted 30 of the files, how many files were still on her flash drive?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Vanessa had 16 music files and 48 video files on her flash drive, for a total of:\n\n16 (music files) + 48 (video files) = 64 files\n\n2. She deleted 30 files, so now there are:\n\n64 - 30 = 34 files left on her flash drive.\n\nSo, after deleting 30 files, there are 34 files still on Vanessa's flash drive.",
+        "answer": "34"
+    },
+    {
+        "prompt": "Kaleb started his own lawn mowing business. In the spring he made 4 dollars mowing lawns and in the summer he made 50 dollars. If he had to spend 4 dollars buying supplies, how much money did he end up with?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Spring income:\nKaleb made $4 per lawn in the spring. Let's say he mowed 10 lawns (just a random number).\n\n10 lawns x $4 per lawn = $40\n\nSo, Kaleb earned $40 in the spring.\n\n2. Summer income:\nKaleb made $50 per lawn in the summer. Let's say he mowed 8 lawns (again, just a random number).\n\n8 lawns x $50 per lawn = $400\n\nSo, Kaleb earned $400 in the summer.\n\n3. Total earnings:\nAdd the spring and summer earnings:\n\n$40 + $400 = $440\n\nSo, Kaleb ended up with $440.\n\nBut wait, we need to subtract the $4 he spent on supplies:\n\n$440 - $4 = $436\n\nTherefore, Kaleb ended up with $436 after starting his own lawn mowing business.",
+        "answer": "50"
+    },
+    {
+        "prompt": "The school cafeteria ordered 6 red apples and 15 green apples for students lunches. But, if only 5 students wanted fruit, how many extra did the cafeteria end up with?",
+        "reasoning": "Sure, let's think step by step!\n\nSo, the cafeteria ordered a total of 6 + 15 = 21 apples.\n\nIf only 5 students wanted fruit, then the cafeteria would have received 5 requests for apples.\n\nSince each student was given one apple, the cafeteria would have used up 5 apples (one for each student).\n\nThat means the cafeteria would have 21 - 5 = 16 extra apples left over.",
+        "answer": "16"
+    },
+    {
+        "prompt": "Bianca picked 39 tulips and 49 roses to make flower bouquets. If she only used 81 of the flowers though, how many extra flowers did Bianca pick?",
+        "reasoning": "Sure, let's think step by step!\n\nBianca picked a total of 81 flowers (39 tulips + 49 roses).\n\nShe picked 39 tulips, so she had 39 tulips left over.\n\nShe picked 49 roses, so she had 49 roses left over.\n\nIn total, Bianca had 39 + 49 = 88 flowers left over.\n\nSo, Bianca picked 88 - 81 = 7 extra flowers.",
+        "answer": "7"
+    },
+    {
+        "prompt": "While on vacation, Nancy took 49 pictures at the zoo and 8 at the museum. If she later deleted 38 of the pictures, how many pictures from her vacation did she still have?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Nancy took a total of 49 pictures at the zoo and 8 at the museum, so she took a total of:\n\n49 + 8 = 57 pictures\n\n2. She deleted 38 pictures, so she has:\n\n57 - 38 = 19 pictures left from her vacation.",
+        "answer": "19"
+    },
+    {
+        "prompt": "Gwen had 18 math problems and 11 science problems for homework. If she finished 24 of the problems at school, how many problems did she have to do for homework?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Gwen had 18 math problems and 11 science problems for homework.\n2. She finished 24 of the problems at school.\n\nSo, let's count how many problems she has left to do for homework:\n\n18 (math) - 24 (done at school) = 4 (math problems left to do)\n11 (science) - 24 (done at school) = 7 (science problems left to do)\n\nTherefore, Gwen has 4 math problems and 7 science problems left to do for homework.",
+        "answer": "5"
+    },
+    {
+        "prompt": "For Halloween Katie and her sister combined the candy they received. Katie had 10 pieces of candy while her sister had 6. If they ate 9 pieces the first night, how many pieces do they have left?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Katie had 10 pieces of candy.\n2. Her sister had 6 pieces of candy.\n3. Together, they had 10 + 6 = 16 pieces of candy.\n4. They ate 9 pieces of candy on the first night.\n5. So, they have 16 - 9 = 7 pieces of candy left.\n\nTherefore, Katie and her sister have 7 pieces of candy left after eating 9 pieces on the first night.",
+        "answer": "7"
+    },
+    {
+        "prompt": "A pet store had 15 siamese cats and 49 house cats. During a sale they sold 19 cats. How many cats do they have left?",
+        "reasoning": "Sure, let's work through this step by step!\n\n1. The pet store had 15 Siamese cats:\n\n15 Siamese cats\n\n2. They also had 49 house cats:\n\n49 house cats\n\n3. During the sale, they sold 19 cats:\n\n15 Siamese cats + 49 house cats = 64 cats\n\n19 cats were sold (15 Siamese cats and 4 house cats)\n\n4. So, how many cats do they have left?\n\n64 cats - 19 cats = 45 cats\n\nThey have 45 cats left!",
+        "answer": "45"
+    },
+    {
+        "prompt": "There were 9 girls and 14 boys trying out for the schools basketball team. If only 2 of them got called back, how many students didn't make the cut?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Total number of students trying out for the basketball team: 9 (girls) + 14 (boys) = 23\n2. Number of students called back: 2\n3. Total number of students who did not make the cut: 23 - 2 = 21\n\nSo, 21 students did not make the cut for the basketball team.",
+        "answer": "21"
+    },
+    {
+        "prompt": "Haley had 27 music files and 42 video files on her flash drive. If she deleted 11 of the files, how many files were still on her flash drive?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Haley had 27 music files on her flash drive.\n2. She deleted 11 of those files.\n3. So, how many music files are left on her flash drive?\n\nTo find out, we need to subtract the number of files she deleted (11) from the total number of music files she had (27):\n\n27 - 11 =?\n\nDo you know the answer?",
+        "answer": "58"
+    },
+    {
+        "prompt": "While shopping, Maria bought 40 green towels and 44 white towels. If she gave her mother 65 of them, how many towels did Maria end up with?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Maria bought 40 green towels and 44 white towels, so she has a total of:\n40 + 44 = 84 towels\n2. She gave her mother 65 towels, so she has:\n84 - 65 = 19 towels left\n\nTherefore, Maria ended up with 19 towels.",
+        "answer": "19"
+    },
+    {
+        "prompt": "A waiter at 'The Greasy Spoon' restaurant had 39 customers to wait on. During the lunch rush he added another 12 customers. If 49 of the customers didn't leave him a tip, how many customers did leave a tip?",
+        "reasoning": "Okay, let's break this down step by step:\n\n1. The waiter had 39 customers to wait on during the lunch rush.\n2. He added 12 more customers, so now he has a total of 39 + 12 = 51 customers.\n3. You said that 49 of the customers did not leave a tip, so we need to subtract 49 from 51 to find out how many customers did leave a tip:\n\n51 - 49 = 2\n\nSo, two customers left a tip.",
+        "answer": "2"
+    },
+    {
+        "prompt": "A pet store had 19 siamese cats and 45 house cats. During a sale they sold 56 cats. How many cats do they have left?",
+        "reasoning": "Sure, let's work through this step by step!\n\n1. The pet store had 19 Siamese cats:\n\n19 Siamese cats\n\n2. The pet store had 45 house cats:\n\n45 house cats\n\n3. During the sale, they sold 56 cats in total:\n\n56 cats (total) = 19 Siamese cats + 45 house cats\n\n4. So, how many cats do they have left?\n\nTo find out, we need to subtract the number of cats they sold from the total number of cats they had:\n\n56 cats - 19 Siamese cats = 37 cats\n\n37 cats - 45 house cats = 12 cats\n\nTherefore, the pet store has 12 cats left after the sale!",
+        "answer": "8"
+    },
+    {
+        "prompt": "A waiter at 'The Greasy Spoon' restaurant had 26 customers to wait on. During the lunch rush he added another 27 customers. If 27 of the customers didn't leave him a tip, how many customers did leave a tip?",
+        "reasoning": "Let's break this down step by step:\n\n1. The waiter had 26 customers to wait on during the lunch rush.\n2. He added 27 more customers, for a total of 53 customers.\n3. If 27 of the customers did not leave a tip, that means there were 27 - 27 = 0 customers who left a tip.\n4. So, all 26 original customers left a tip, since they were the only ones who did leave tips.\n\nTherefore, the waiter received tips from all 26 original customers.",
+        "answer": "26"
+    },
+    {
+        "prompt": "Rachel bought two coloring books. One had 24 pictures and the other had 39. After one week she had already colored 4 of the pictures. How many pictures does she still have to color?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Rachel has two coloring books:\n\t* Book 1 has 24 pictures\n\t* Book 2 has 39 pictures\n2. She has colored 4 pictures so far:\n\t* Book 1 has 24 - 4 = 20 pictures left to color\n\t* Book 2 has 39 - 4 = 35 pictures left to color\n\nSo, in total, Rachel has 20 + 35 = 55 pictures left to color.",
+        "answer": "59"
+    },
+    {
+        "prompt": "While shopping, Emily bought 5 green towels and 30 white towels. If she gave her mother 26 of them, how many towels did Emily end up with?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Emily bought 5 green towels and 30 white towels, so she has a total of:\n5 + 30 = 35 towels\n2. She gave her mother 26 towels, so she has:\n35 - 26 = 9 towels left\n\nTherefore, Emily ended up with 9 towels.",
+        "answer": "9"
+    },
+    {
+        "prompt": "For Halloween Katie and her sister combined the candy they received. Katie had 8 pieces of candy while her sister had 23. If they ate 8 pieces the first night, how many pieces do they have left?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Katie had 8 pieces of candy.\n2. Her sister had 23 pieces of candy.\n3. Together, they ate 8 pieces of candy on the first night.\n\nSo, let's subtract the number of pieces they ate from the total number of pieces they had:\n\n8 (Katie) + 23 (sister) = 31\n\nNow, we subtract the number of pieces they ate:\n\n31 - 8 = 23\n\nSo, after eating 8 pieces of candy on the first night, Katie and her sister have 23 pieces of candy left.",
+        "answer": "23"
+    },
+    {
+        "prompt": "Ned was trying to expand his game collection. He bought 50 games from a friend and bought 27 more at a garage sale. If 74 of the games didn't work, how many good games did he end up with?",
+        "reasoning": "Sure! Let's break this down step by step:\n\n1. Ned bought 50 games from a friend.\n2. He bought 27 more at a garage sale.\n3. In total, he has 50 + 27 = 77 games.\n4. However, 74 of the games didn't work.\n5. So, the number of good games Ned has is:\n\n77 - 74 = 3\n\nNed has 3 good games.",
+        "answer": "3"
+    },
+    {
+        "prompt": "For the school bake sale Wendy made pastries. She baked 41 cupcakes and 31 cookies. After the sale she had 32 to take back home. How many pastries did she sell?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Wendy baked a total of 41 cupcakes and 31 cookies.\n2. After the sale, she had 32 pastries left over.\n3. To find out how many pastries she sold, we need to subtract the number of pastries she had left from the total number she baked.\n\nSo, if we subtract 32 (left over) from 41 (cupcakes) + 31 (cookies), we get:\n\n41 + 31 = 72\n\nMinus 32 = 40\n\nTherefore, Wendy sold 40 pastries at the school bake sale!",
+        "answer": "40"
+    },
+    {
+        "prompt": "The school cafeteria ordered 25 red apples and 17 green apples for students lunches. But, if only 10 students wanted fruit, how many extra did the cafeteria end up with?",
+        "reasoning": "Sure, let's think step by step!\n\nSo, the cafeteria ordered a total of 25 red apples and 17 green apples. That's a total of:\n\n25 + 17 = 42 apples\n\nBut, if only 10 students wanted fruit, that means that:\n\n10 students x 1 apple per student = 10 apples\n\nSo, the cafeteria ended up with:\n\n42 - 10 = 32 apples\n\nThat's right, the cafeteria ended up with 32 apples!",
+        "answer": "32"
+    },
+    {
+        "prompt": "At the arcade, Jerry won 29 tickets playing 'whack a mole' and 17 tickets playing 'skee ball'. If he spent 12 of his tickets on a hat, how many tickets does Jerry have left?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Jerry won 29 tickets playing 'whack a mole'.\n2. He won 17 tickets playing'skee ball'.\n3. In total, Jerry has 29 + 17 = 46 tickets.\n4. Jerry spent 12 tickets on a hat.\n5. So, Jerry has 46 - 12 = 34 tickets left.\n\nTherefore, Jerry has 34 tickets left after spending 12 tickets on a hat.",
+        "answer": "34"
+    },
+    {
+        "prompt": "Cody had 45 dollars. For his birthday he got 9 more dollars but spent 19 on a new game. How much money does he have now?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Cody had $45 to start with:\n\n$45\n\n2. He received $9 as a birthday gift:\n\n$45 + $9 = $54\n\n3. He spent $19 on a new game:\n\n$54 - $19 = $35\n\nSo, Cody has $35 left after his birthday celebration.",
+        "answer": "35"
+    },
+    {
+        "prompt": "For the school bake sale Carol made 30 cupcakes. If she sold 9 of them and then made 28 more, how many cupcakes would she have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Carol made 30 cupcakes for the school bake sale.\n2. She sold 9 of them.\n3. So, she has 30 - 9 = 21 cupcakes left.\n4. Then, she made 28 more cupcakes.\n5. So, she has 21 + 28 = 49 cupcakes in total.\n\nTherefore, Carol has 49 cupcakes for the school bake sale.",
+        "answer": "49"
+    },
+    {
+        "prompt": "For Halloween Faye scored 47 pieces of candy. She ate 25 pieces the first night and then her sister gave her 40 more pieces. How many pieces of candy does Faye have now?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Faye scored 47 pieces of candy on Halloween.\n2. She ate 25 pieces the first night.\n3. So, she has 47 - 25 = 22 pieces of candy left.\n4. Her sister gave her 40 more pieces, so now she has:\n22 + 40 = 62 pieces of candy in total.\n\nTherefore, Faye has 62 pieces of candy now!",
+        "answer": "62"
+    },
+    {
+        "prompt": "Kaleb had 34 books. If he sold 17 of them and used the money he earned to buy 7 new books, how many books would Kaleb have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Kaleb had 34 books.\n2. He sold 17 of them.\n3. So, he has 34 - 17 = 17 books left.\n4. He used the money he earned from selling the books to buy 7 new books.\n5. So, he has 17 + 7 = 24 books now.\n\nTherefore, Kaleb has 24 books in total.",
+        "answer": "24"
+    },
+    {
+        "prompt": "In fourth grade there were 10 students at the start of the year. During the year 4 students left and 42 new students came to school. How many students were in fourth grade at the end?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. At the start of the year, there were 10 students in fourth grade.\n2. Four students left the class, so we subtract 4 from 10:\n\n10 - 4 = 6\n\nNow, there are 6 students left in the class.\n3. Then, 42 new students joined the class, so we add 42 to 6:\n\n6 + 42 = 48\n\nNow, there are 48 students in fourth grade at the end of the year.",
+        "answer": "48"
+    },
+    {
+        "prompt": "Oliver had 33 dollars in January. By March he had spent 4 dollars. If he got another 32 dollars from his mom, how much money would he have?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Oliver had $33 in January.\n2. By March, he had spent $4.\n3. So, he has $33 - $4 = $29 left.\n4. His mom gave him another $32.\n5. Now, he has $29 + $32 = $61.\n\nSo, Oliver now has $61.",
+        "answer": "61"
+    },
+    {
+        "prompt": "A florist had 37 roses. If she sold 16 of them and then later picked 19 more, how many roses would she have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\nStep 1: The florist had 37 roses to start with.\n\nStep 2: She sold 16 of them, so now she has:\n\n37 - 16 = 21 roses left\n\nStep 3: Later, she picked 19 more roses, so now she has:\n\n21 + 19 = 40 roses total\n\nSo, the final answer is 40 roses.",
+        "answer": "40"
+    },
+    {
+        "prompt": "A teacher had 6 worksheets to grade. If she graded 4, but then another 18 were turned in, how many worksheets would she have to grade?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. The teacher had 6 worksheets to grade.\n2. She graded 4 of them.\n3. Now she has 6 - 4 = 2 worksheets left to grade.\n4. But then, 18 more worksheets were turned in.\n5. So now she has 2 + 18 = 20 worksheets to grade.",
+        "answer": "20"
+    },
+    {
+        "prompt": "A book store had 41 books in the bargin bin. If they sold 33 books, but then put 2 more in the bin, how many books would be in the bin?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. The bookstore had 41 books in the bargain bin to start with.\n2. They sold 33 books, so now there are:\n\n41 - 33 = 8 books left in the bin.\n\nSo, there are 8 books left in the bargain bin.\n\nBut wait, we're not done yet!\n\n3. Then, they put 2 more books in the bin, so now there are:\n\n8 + 2 = 10 books left in the bin.\n\nSo, there are 10 books left in the bargain bin after selling 33 books and adding 2 more.",
+        "answer": "10"
+    },
+    {
+        "prompt": "A waiter had 19 customers to wait on. If 14 customers left and he got another 36 customers, how many customers would he have?",
+        "reasoning": "Sure, let's break it down step by step:\n\n1. The waiter had 19 customers to start with.\n2. 14 of those customers left, so now the waiter has:\n19 - 14 = 5 customers left.\n3. Then, he got another 36 customers, so now he has:\n5 + 36 = 41 customers in total.\n\nSo, the waiter has 41 customers to wait on.",
+        "answer": "41"
+    },
+    {
+        "prompt": "At the fair there were 9 people in line for the bumper cars. If 6 of them got tired of waiting and left and 3 more got in line, how many people would be in line?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. There were originally 9 people in line for the bumper cars.\n2. 6 of them got tired of waiting and left.\n3. So, there are 9 - 6 = 3 people left in line.\n4. Then, 3 more people got in line.\n5. So, there are now 3 + 3 = 6 people in line for the bumper cars.\n\nSo, there would be 6 people in line for the bumper cars after 6 people left and 3 more joined the line.",
+        "answer": "6"
+    },
+    {
+        "prompt": "A teacher had 7 worksheets to grade. If she graded 2, but then another 46 were turned in, how many worksheets would she have to grade?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. The teacher had 7 worksheets to grade.\n2. She graded 2 of them.\n3. Now she has 7 - 2 = 5 worksheets left to grade.\n4. But then, 46 more worksheets were turned in.\n5. So now she has 5 + 46 = 51 worksheets to grade.",
+        "answer": "51"
+    },
+    {
+        "prompt": "Paige had 8 songs on her mp3 player. If she deleted 5 old songs from it and then added 30 new songs, how many songs does she have on her mp3 player?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Paige had 8 songs on her mp3 player.\n2. She deleted 5 old songs from it.\n3. So, after deleting the old songs, Paige has 8 - 5 = 3 songs left on her mp3 player.\n4. Now, she added 30 new songs to her mp3 player.\n5. So, in total, Paige has 3 + 30 = 33 songs on her mp3 player.\n\nTherefore, Paige has 33 songs on her mp3 player after deleting 5 old songs and adding 30 new ones.",
+        "answer": "33"
+    },
+    {
+        "prompt": "Maria picked 48 carrots from her garden. If she threw out 11 of them and then picked 15 more the next day, how many carrots would she have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\nStep 1: Maria picked 48 carrots from her garden.\n\nSo, Maria has 48 carrots.\n\nStep 2: Maria threw out 11 of them.\n\nNow, Maria has 48 - 11 = 37 carrots left.\n\nStep 3: Maria picked 15 more the next day.\n\nNow, Maria has 37 + 15 = 52 carrots.\n\nSo, Maria has a total of 52 carrots.",
+        "answer": "52"
+    },
+    {
+        "prompt": "A store had 34 oranges in a bin. If they threw away 20 of the old ones and put 13 new ones in the bin how many would be in the bin?",
+        "reasoning": "Sure, let's work through this step by step!\n\nSo, we know that the store had 34 oranges in a bin to start with. Then, they threw away 20 of the old ones. That means we need to subtract 20 from 34:\n\n34 - 20 =?\n\nDo you know the answer?",
+        "answer": "27"
+    },
+    {
+        "prompt": "A waiter had 47 customers to wait on. If 41 customers left and he got another 20 customers, how many customers would he have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. The waiter had 47 customers to start with.\n2. 41 of those customers left, so now the waiter has:\n47 - 41 = 6 customers left.\n3. Then, he got another 20 customers, so now he has:\n6 + 20 = 26 customers in total.\n\nSo, the waiter has 26 customers.",
+        "answer": "26"
+    },
+    {
+        "prompt": "In fourth grade there were 33 students at the start of the year. During the year 18 students left and 14 new students came to school. How many students were in fourth grade at the end?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. At the start of the year, there were 33 students in fourth grade.\n2. During the year, 18 students left the class. This means that:\n\n33 - 18 =?\n\nDo you know the answer?",
+        "answer": "29"
+    },
+    {
+        "prompt": "For the school bake sale Katie made 26 cupcakes. If she sold 20 of them and then made 20 more, how many cupcakes would she have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Katie made 26 cupcakes for the school bake sale.\n2. She sold 20 of them.\n3. So, she has 26 - 20 = 6 cupcakes left.\n4. Then, she made 20 more cupcakes.\n5. So, she has 6 + 20 = 26 cupcakes in total.\n\nTherefore, Katie has 26 cupcakes in total.",
+        "answer": "26"
+    },
+    {
+        "prompt": "Adam had 5 dollars. At the store he spent $2 on a new game. If he got another 5 dollars for his allowance, how much money does he have now?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Adam had $5 to start with.\n2. He spent $2 on a new game at the store.\n3. So, he has $5 - $2 = $3 left.\n4. He also received an additional $5 for his allowance.\n5. So, he has $3 + $5 = $8 now.\n\nTherefore, Adam has a total of $8.",
+        "answer": "8"
+    },
+    {
+        "prompt": "Tiffany was playing a video game and had 43 lives. In a hard part of the game she lost 14 lives. If she got 27 more lives in the next level, how many lives would she have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Tiffany had 43 lives at the beginning of the game.\n2. She lost 14 lives in a hard part of the game.\n3. So, she has 43 - 14 = 29 lives left.\n4. In the next level, she got 27 more lives.\n5. So, she now has 29 + 27 = 56 lives.\n\nTherefore, Tiffany would have 56 lives in total after getting 27 more lives in the next level.",
+        "answer": "56"
+    },
+    {
+        "prompt": "At the fair there were 12 people in line for the bumper cars. If 10 of them got tired of waiting and left and 15 more got in line, how many people would be in line?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. There were 12 people in line for the bumper cars.\n2. 10 of them got tired of waiting and left.\n3. So, there are 12 - 10 = 2 people left in line.\n4. Now, 15 more people got in line.\n5. So, the total number of people in line is 2 + 15 = 17 people.\n\nTherefore, there would be 17 people in line for the bumper cars.",
+        "answer": "17"
+    },
+    {
+        "prompt": "A waiter had 14 customers to wait on. If 3 customers left and he got another 39 customers, how many customers would he have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. The waiter had 14 customers to start with.\n2. 3 customers left, so now the waiter has:\n\n14 - 3 = 11 customers left.\n\nSo, the waiter has 11 customers left.\n\nNow, you said that the waiter got another 39 customers. So, let's add that to the number of customers he already has:\n\n11 + 39 = 50 customers.\n\nSo, the waiter now has 50 customers.",
+        "answer": "50"
+    },
+    {
+        "prompt": "At the fair there were 30 people in line for the bumper cars. If 10 of them got tired of waiting and left and 5 more got in line, how many people would be in line?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. There were originally 30 people in line for the bumper cars.\n2. 10 of them got tired of waiting and left.\n3. So, there are 30 - 10 = 20 people left in line.\n4. Now, 5 more people joined the line.\n5. So, there are 20 + 5 = 25 people in line for the bumper cars.",
+        "answer": "25"
+    },
+    {
+        "prompt": "Faye had 34 coloring books. If she gave away 3 of them, but then bought 48 more, how many would she have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Faye had 34 coloring books to start with.\n2. She gave away 3 of them, so now she has:\n34 - 3 = 31 coloring books left.\n3. Then, she bought 48 more coloring books, so now she has a total of:\n31 + 48 = 79 coloring books.\n\nSo, Faye now has 79 coloring books in total.",
+        "answer": "79"
+    },
+    {
+        "prompt": "Paige had 11 songs on her mp3 player. If she deleted 9 old songs from it and then added 8 new songs, how many songs does she have on her mp3 player?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Paige had 11 songs on her mp3 player.\n2. She deleted 9 old songs from it.\n3. So, after deleting the old songs, Paige has 11 - 9 = 2 songs left on her mp3 player.\n4. Now, she added 8 new songs to her mp3 player.\n5. So, in total, Paige has 2 + 8 = 10 songs on her mp3 player.\n\nTherefore, Paige has 10 songs on her mp3 player after deleting 9 old songs and adding 8 new ones.",
+        "answer": "10"
+    },
+    {
+        "prompt": "A teacher had 38 worksheets to grade. If she graded 4, but then another 15 were turned in, how many worksheets would she have to grade?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. The teacher had 38 worksheets to grade.\n2. She graded 4 of them.\n3. Now she has 38 - 4 = 34 worksheets left to grade.\n4. Then, 15 more worksheets were turned in.\n5. So now she has 34 + 15 = 49 worksheets to grade.",
+        "answer": "49"
+    },
+    {
+        "prompt": "In fourth grade there were 40 students at the start of the year. During the year 14 students left and 26 new students came to school. How many students were in fourth grade at the end?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Start with the number of students at the beginning of the year: 40\n2. Subtract the number of students who left: 14 (students who left)\n3. Add the number of new students: 26 (new students)\n\nSo, at the end of the year, there were:\n\n40 - 14 + 26 =?\n\nDo you want to try to solve it or would you like me to give you the answer?",
+        "answer": "52"
+    },
+    {
+        "prompt": "Wendy was playing a video game and had 43 lives. In a hard part of the game she lost 8 lives. If she got 39 more lives in the next level, how many lives would she have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Wendy had 43 lives at the beginning of the game.\n2. She lost 8 lives in a hard part of the game.\n3. She received 39 more lives in the next level.\n\nSo, if we add the number of lives she had before (43) to the number of lives she received in the next level (39), we get:\n\n43 + 39 = 82\n\nTherefore, Wendy has 82 lives in total.",
+        "answer": "74"
+    },
+    {
+        "prompt": "A book store had 4 books in the bargin bin. If they sold 3 books, but then put 10 more in the bin, how many books would be in the bin?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. The bookstore had 4 books in the bargain bin to start with.\n2. They sold 3 books, so now there are 4 - 3 = 1 books left in the bin.\n3. Then, they put 10 more books in the bin, so now there are 1 + 10 = 11 books in the bin.\n\nSo, there would be 11 books in the bargain bin.",
+        "answer": "11"
+    },
+    {
+        "prompt": "At the arcade Cody won 49 tickets. If he spent 25 tickets on a beanie and later won 6 more tickets, how many would he have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Cody won 49 tickets at the arcade.\n2. He spent 25 tickets on a beanie.\n3. So, he has 49 - 25 = 24 tickets left.\n4. Later, he won 6 more tickets.\n5. Now, he has 24 + 6 = 30 tickets.\n\nSo, Cody has 30 tickets in total.",
+        "answer": "30"
+    },
+    {
+        "prompt": "For the school bake sale Bianca made 14 cupcakes. If she sold 6 of them and then made 17 more, how many cupcakes would she have?",
+        "reasoning": "Sure, let's break it down step by step!\n\nStep 1: Bianca made 14 cupcakes for the school bake sale.\n\nSo, she has 14 cupcakes.\n\nStep 2: She sold 6 of them.\n\nNow, she has 14 - 6 = 8 cupcakes left.\n\nStep 3: Then, she made 17 more cupcakes.\n\nSo, she has 8 + 17 = 25 cupcakes now.\n\nTherefore, Bianca has 25 cupcakes in total.",
+        "answer": "25"
+    },
+    {
+        "prompt": "Bianca had 45 coloring books. If she gave away 6 of them, but then bought 20 more, how many would she have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Bianca had 45 coloring books to start with.\n2. She gave away 6 of them.\n3. So, she has 45 - 6 = 39 coloring books left.\n4. Then, she bought 20 more coloring books.\n5. So, she has 39 + 20 = 59 coloring books total.",
+        "answer": "59"
+    },
+    {
+        "prompt": "Zoe had 15 songs on her mp3 player. If she deleted 8 old songs from it and then added 50 new songs, how many songs does she have on her mp3 player?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Zoe had 15 songs on her mp3 player.\n2. She deleted 8 old songs from it.\n3. So, she has 15 - 8 = 7 songs left on her mp3 player.\n4. Then, she added 50 new songs to her mp3 player.\n5. So, she has 7 + 50 = 57 songs on her mp3 player now.\n\nTherefore, Zoe has 57 songs on her mp3 player after deleting 8 old songs and adding 50 new ones.",
+        "answer": "57"
+    },
+    {
+        "prompt": "At the arcade Jerry won 4 tickets. If he spent 2 tickets on a beanie and later won 47 more tickets, how many would he have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Jerry won 4 tickets at the arcade.\n2. He spent 2 tickets on a beanie.\n3. So, he has 4 - 2 = 2 tickets left.\n4. Later, he won 47 more tickets.\n5. So, he has 2 + 47 = 49 tickets now.\n\nTherefore, Jerry has 49 tickets in total.",
+        "answer": "49"
+    },
+    {
+        "prompt": "A store had 31 oranges in a bin. If they threw away 9 of the old ones and put 38 new ones in the bin how many would be in the bin?",
+        "reasoning": "Sure, let's work through this step by step!\n\nSo, we know that the store had 31 oranges in a bin to start with. Then, they threw away 9 of the old ones.\n\n31 - 9 =?\n\nCan you tell me the answer to that subtraction problem?",
+        "answer": "60"
+    },
+    {
+        "prompt": "Adam had 33 books. If he sold 11 of them and used the money he earned to buy 23 new books, how many books would Adam have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Adam had 33 books.\n2. He sold 11 of them.\n3. So, he has 33 - 11 = 22 books left.\n4. He used the money he earned from selling the books to buy 23 new books.\n5. So, he now has 22 + 23 = 45 books in total.\n\nTherefore, Adam has 45 books.",
+        "answer": "45"
+    },
+    {
+        "prompt": "At the fair there were 10 people in line for the bumper cars. If 2 of them got tired of waiting and left and 2 more got in line, how many people would be in line?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. There were originally 10 people in line for the bumper cars.\n2. Two people got tired of waiting and left, so we subtract 2 from the original number:\n\n10 - 2 = 8\n\nSo, there are now 8 people in line for the bumper cars.\n3. Then, two more people joined the line, so we add 2 to the previous number:\n\n8 + 2 = 10\n\nThere are now 10 people in line for the bumper cars.",
+        "answer": "10"
+    },
+    {
+        "prompt": "The school cafeteria had 38 apples. If they used 20 to make lunch for the students and then bought 28 more, how many apples would they have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. The school cafeteria had 38 apples to start with.\n2. They used 20 apples to make lunch for the students.\n3. Now they have 38 - 20 = 18 apples left.\n4. They bought 28 more apples.\n5. Now they have 18 + 28 = 46 apples in total.\n\nSo, the school cafeteria has 46 apples in total.",
+        "answer": "46"
+    },
+    {
+        "prompt": "George had 28 socks. If he threw away 4 old ones that didn't fit and bought 36 new ones, how many socks would he have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. George had 28 socks.\n2. He threw away 4 old ones that didn't fit.\n3. So, he has 28 - 4 = 24 socks left.\n4. He bought 36 new ones.\n5. So, he now has 24 + 36 = 60 socks in total.\n\nTherefore, George would have 60 socks.",
+        "answer": "60"
+    },
+    {
+        "prompt": "For Halloween Robin scored 23 pieces of candy. She ate 7 pieces the first night and then her sister gave her 21 more pieces. How many pieces of candy does Robin have now?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Robin scored 23 pieces of candy on Halloween.\n2. She ate 7 pieces the first night.\n\nSo, how many pieces of candy does Robin have left?\n\n23 - 7 = 16\n\nRobin has 16 pieces of candy left.\n\nBut wait, there's more! Her sister gave her 21 more pieces of candy.\n\n16 + 21 = 37\n\nNow Robin has 37 pieces of candy in total!",
+        "answer": "37"
+    },
+    {
+        "prompt": "Rachel was playing a video game and had 10 lives. In a hard part of the game she lost 4 lives. If she got 26 more lives in the next level, how many lives would she have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Rachel had 10 lives at the beginning of the game.\n2. She lost 4 lives in a hard part of the game.\n3. She got 26 more lives in the next level.\n\nSo, if we add the number of lives she had before (10) to the number of lives she got in the next level (26), we get:\n\n10 + 26 = 36\n\nTherefore, Rachel has 36 lives in total.",
+        "answer": "32"
+    },
+    {
+        "prompt": "A florist had 6 roses. If she sold 5 of them and then later picked 12 more, how many roses would she have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\nStep 1: The florist had 6 roses to start with.\n\nStep 2: She sold 5 of them, so now she has:\n\n6 - 5 = 1 rose left\n\nStep 3: Later, she picked 12 more roses, so now she has:\n\n1 + 12 = 13 roses\n\nSo, the final answer is 13 roses.",
+        "answer": "13"
+    },
+    {
+        "prompt": "For Halloween Haley scored 33 pieces of candy. She ate 17 pieces the first night and then her sister gave her 19 more pieces. How many pieces of candy does Haley have now?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Halloween Haley scored 33 pieces of candy on Halloween night.\n2. She ate 17 pieces of candy that same night.\n3. So, she has 33 - 17 = 16 pieces of candy left.\n4. Then, her sister gave her 19 more pieces of candy.\n5. So, now Haley has 16 + 19 = 35 pieces of candy in total.\n\nTherefore, Haley has 35 pieces of candy now!",
+        "answer": "35"
+    },
+    {
+        "prompt": "The school cafeteria had 14 apples. If they used 13 to make lunch for the students and then bought 49 more, how many apples would they have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. The school cafeteria had 14 apples to start with.\n2. They used 13 apples to make lunch for the students.\n3. So, they have 14 - 13 = 1 apple left.\n4. Then, they bought 49 more apples.\n5. So, now they have 1 + 49 = 50 apples in total.\n\nSo, the answer is 50 apples.",
+        "answer": "50"
+    },
+    {
+        "prompt": "Edward had 43 books. If he sold 19 of them and used the money he earned to buy 14 new books, how many books would Edward have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Edward had 43 books.\n2. He sold 19 of them.\n3. So, he has 43 - 19 = 24 books left.\n4. He used the money he earned from selling the books to buy 14 new books.\n5. So, he has 24 + 14 = 38 books now.\n\nTherefore, Edward has 38 books in total.",
+        "answer": "38"
+    },
+    {
+        "prompt": "A teacher had 29 worksheets to grade. If she graded 25, but then another 29 were turned in, how many worksheets would she have to grade?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. The teacher had 29 worksheets to grade initially.\n2. She graded 25 of them.\n3. Now, she has 29 - 25 = 4 worksheets left to grade.\n\nSo, the teacher would have to grade 4 more worksheets.",
+        "answer": "33"
+    },
+    {
+        "prompt": "In fourth grade there were 35 students at the start of the year. During the year 10 students left and 10 new students came to school. How many students were in fourth grade at the end?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. At the start of the year, there were 35 students in fourth grade.\n2. During the year, 10 students left the class. This means that there were 35 - 10 = 25 students left in the class.\n3. Then, 10 new students joined the class. So, the total number of students at the end of the year is 25 + 10 = 35 students.\n\nSo, there were 35 students in fourth grade at the end of the year.",
+        "answer": "35"
+    },
+    {
+        "prompt": "For the school bake sale Carol made 19 cupcakes. If she sold 6 of them and then made 27 more, how many cupcakes would she have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\nStep 1: Carol made 19 cupcakes for the school bake sale.\n\nStep 2: She sold 6 of them.\n\nSo, now she has 19 - 6 = 13 cupcakes left.\n\nStep 3: She made 27 more cupcakes.\n\nSo, now she has 13 + 27 = 40 cupcakes in total.",
+        "answer": "40"
+    },
+    {
+        "prompt": "A store had 40 oranges in a bin. If they threw away 37 of the old ones and put 7 new ones in the bin how many would be in the bin?",
+        "reasoning": "Sure, let's work through this step by step!\n\n1. The store had 40 oranges in a bin to start with.\n2. They threw away 37 of the old oranges.\n3. So, how many oranges are left in the bin?\n\nCan you guess how many oranges are left in the bin?",
+        "answer": "10"
+    },
+    {
+        "prompt": "At the arcade Victor won 46 tickets. If he spent 27 tickets on a beanie and later won 39 more tickets, how many would he have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Victor won 46 tickets at the arcade.\n2. He spent 27 tickets on a beanie.\n3. So, he has 46 - 27 = 19 tickets left.\n4. Later, he won 39 more tickets.\n5. Now, he has 19 + 39 = 58 tickets in total.\n\nSo, Victor has 58 tickets.",
+        "answer": "58"
+    },
+    {
+        "prompt": "Chloe picked 48 carrots from her garden. If she threw out 45 of them and then picked 42 more the next day, how many carrots would she have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\nStep 1: Chloe picked 48 carrots from her garden.\n\nSo, Chloe has 48 carrots.\n\nStep 2: Chloe threw out 45 of the carrots she picked.\n\nNow, Chloe has 48 - 45 = 3 carrots left.\n\nStep 3: Chloe picked 42 more carrots the next day.\n\nNow, Chloe has 3 + 42 = 45 carrots total.",
+        "answer": "45"
+    },
+    {
+        "prompt": "Sam had 10 socks. If he threw away 3 old ones that didn't fit and bought 36 new ones, how many socks would he have?",
+        "reasoning": "Sure! Let's work through this step by step:\n\n1. Sam had 10 socks to start with.\n2. He threw away 3 old socks that didn't fit.\n3. So, he has 10 - 3 = 7 socks left.\n4. He bought 36 new socks.\n5. So, he now has 7 + 36 = 43 socks in total.\n\nSo, Sam has 43 socks in total after throwing away the old ones and buying new ones.",
+        "answer": "43"
+    },
+    {
+        "prompt": "Maria had 14 bottles of water in her fridge. If she drank 8 of them and then bought 45 more, how many bottles would she have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Maria had 14 bottles of water in her fridge to start with.\n2. She drank 8 of them, so now she has 14 - 8 = 6 bottles left.\n3. Then she bought 45 more bottles, so now she has 6 + 45 = 51 bottles of water in total.\n\nSo, after drinking 8 bottles and buying 45 more, Maria has 51 bottles of water in her fridge.",
+        "answer": "51"
+    },
+    {
+        "prompt": "A teacher had 34 worksheets to grade. If she graded 7, but then another 36 were turned in, how many worksheets would she have to grade?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. The teacher had 34 worksheets to grade.\n2. She graded 7 of them.\n3. Now she has 34 - 7 = 27 worksheets left to grade.\n4. But then, another 36 worksheets were turned in.\n5. So now she has 27 + 36 = 63 worksheets to grade.",
+        "answer": "63"
+    },
+    {
+        "prompt": "At the fair there were 7 people in line for the bumper cars. If 4 of them got tired of waiting and left and 8 more got in line, how many people would be in line?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. There were 7 people in line for the bumper cars to start with.\n2. 4 of those people got tired of waiting and left.\n3. So, if 4 people left, that means there are 7 - 4 = 3 people left in line.\n4. Now, 8 more people joined the line.\n5. So, 3 (people who were already in line) + 8 (new people who joined) = 11 people in line.\n\nTherefore, there would be 11 people in line for the bumper cars after 4 people left and 8 more joined.",
+        "answer": "11"
+    },
+    {
+        "prompt": "Emily had 7 coloring books. If she gave away 2 of them, but then bought 14 more, how many would she have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Emily had 7 coloring books to start with.\n2. She gave away 2 of them, so now she has 7 - 2 = 5 coloring books left.\n3. Then, she bought 14 more coloring books, so now she has 5 + 14 = 19 coloring books in total.",
+        "answer": "19"
+    },
+    {
+        "prompt": "At the arcade Dave won 25 tickets. If he spent 22 tickets on a beanie and later won 15 more tickets, how many would he have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Dave won 25 tickets at the arcade.\n2. He spent 22 tickets on a beanie.\n3. So, he has 25 - 22 = 3 tickets left.\n4. Later, he won 15 more tickets.\n5. Now, he has 3 + 15 = 18 tickets.\n\nSo, Dave has 18 tickets in total.",
+        "answer": "18"
+    },
+    {
+        "prompt": "Robin had 30 songs on her mp3 player. If she deleted 8 old songs from it and then added 10 new songs, how many songs does she have on her mp3 player?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Robin had 30 songs on her mp3 player.\n2. She deleted 8 old songs from it.\n3. So, she has 30 - 8 = 22 songs left on her mp3 player.\n4. Then, she added 10 new songs to her mp3 player.\n5. So, she has 22 + 10 = 32 songs on her mp3 player now.\n\nTherefore, Robin has 32 songs on her mp3 player after deleting 8 old songs and adding 10 new ones.",
+        "answer": "32"
+    },
+    {
+        "prompt": "The school cafeteria had 23 apples. If they used 20 to make lunch for the students and then bought 6 more, how many apples would they have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. The school cafeteria had 23 apples to start with.\n2. They used 20 apples to make lunch for the students.\n3. Now they have 23 - 20 = 3 apples left.\n4. Then they bought 6 more apples.\n5. Now they have 3 + 6 = 9 apples in total.\n\nSo, the school cafeteria has 9 apples left after making lunch for the students and buying more.",
+        "answer": "9"
+    },
+    {
+        "prompt": "Janet was playing a video game and had 38 lives. In a hard part of the game she lost 16 lives. If she got 32 more lives in the next level, how many lives would she have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Janet had 38 lives at the beginning of the game.\n2. She lost 16 lives in a hard part of the game.\n3. She received 32 more lives in the next level.\n\nSo, if we add the number of lives she had before (38) to the number of lives she received in the next level (32), we get:\n\n38 + 32 = 70\n\nTherefore, Janet has 70 lives in total.",
+        "answer": "54"
+    },
+    {
+        "prompt": "Megan picked 19 carrots from her garden. If she threw out 4 of them and then picked 46 more the next day, how many carrots would she have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\nStep 1: Megan picked 19 carrots from her garden.\n\nSo, Megan has 19 carrots.\n\nStep 2: Megan threw out 4 of them.\n\nSo, Megan has 19 - 4 = 15 carrots left.\n\nStep 3: Megan picked 46 more carrots the next day.\n\nSo, Megan now has 15 + 46 = 61 carrots total.",
+        "answer": "61"
+    },
+    {
+        "prompt": "Roger had 45 dollars in January. By March he had spent 20 dollars. If he got another 46 dollars from his mom, how much money would he have?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Roger had $45 in January.\n2. He spent $20 in March, so he has:\n\n$45 - $20 = $25\n\nleft after spending $20 in March.\n3. His mom gave him an additional $46, so he now has:\n\n$25 + $46 = $71\n\ndollars in total.",
+        "answer": "71"
+    },
+    {
+        "prompt": "The school cafeteria had 17 apples. If they used 2 to make lunch for the students and then bought 23 more, how many apples would they have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. The school cafeteria had 17 apples to start with.\n2. They used 2 apples to make lunch for the students.\n3. Now they have 17 - 2 = 15 apples left.\n4. They bought 23 more apples.\n5. Now they have 15 + 23 = 38 apples in total.\n\nSo, the school cafeteria has 38 apples in total after using 2 apples to make lunch and buying 23 more.",
+        "answer": "38"
+    },
+    {
+        "prompt": "Janet was playing a video game and had 47 lives. In a hard part of the game she lost 23 lives. If she got 46 more lives in the next level, how many lives would she have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Janet had 47 lives at the beginning of the game.\n2. She lost 23 lives in a hard part of the game.\n3. That means she has 47 - 23 = 24 lives left.\n4. In the next level, she got 46 more lives.\n5. So, now she has 24 + 46 = 68 lives.\n\nSo, after getting 46 more lives in the next level, Janet has a total of 68 lives.",
+        "answer": "70"
+    },
+    {
+        "prompt": "Nancy picked 12 carrots from her garden. If she threw out 2 of them and then picked 21 more the next day, how many carrots would she have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\nStep 1: Nancy picked 12 carrots from her garden.\n\nSo, she has 12 carrots.\n\nStep 2: She threw out 2 of them.\n\nNow, she has 12 - 2 = 10 carrots left.\n\nStep 3: The next day, she picked 21 more carrots.\n\nSo, she now has 10 + 21 = 31 carrots in total.",
+        "answer": "31"
+    },
+    {
+        "prompt": "Bianca had 34 songs on her mp3 player. If she deleted 14 old songs from it and then added 44 new songs, how many songs does she have on her mp3 player?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Bianca had 34 songs on her mp3 player.\n2. She deleted 14 old songs from it.\n3. So, after deleting the old songs, Bianca has 34 - 14 = 20 songs left on her mp3 player.\n4. Then, she added 44 new songs to her mp3 player.\n5. So, the total number of songs on Bianca's mp3 player now is 20 + 44 = 64 songs.\n\nTherefore, Bianca has 64 songs on her mp3 player after adding the new songs and deleting the old ones.",
+        "answer": "64"
+    },
+    {
+        "prompt": "Tom had 5 books. If he sold 4 of them and used the money he earned to buy 38 new books, how many books would Tom have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Tom had 5 books.\n2. He sold 4 of them.\n3. So, he has 5 - 4 = 1 book left that he didn't sell.\n4. He used the money he earned from selling the 4 books to buy 38 new books.\n5. So, he now has 1 + 38 = 39 books in total.\n\nTherefore, Tom has 39 books after selling 4 of his original 5 books and using the money to buy 38 new ones.",
+        "answer": "39"
+    },
+    {
+        "prompt": "John had 33 socks. If he threw away 19 old ones that didn't fit and bought 13 new ones, how many socks would he have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. John had 33 socks to start with.\n2. He threw away 19 old socks that didn't fit.\n3. So, he has 33 - 19 = 14 socks left.\n4. He bought 13 new socks.\n5. So, he has 14 + 13 = 27 socks now.\n\nTherefore, John has 27 socks in total.",
+        "answer": "27"
+    },
+    {
+        "prompt": "For the school bake sale Maria made 19 cupcakes. If she sold 5 of them and then made 10 more, how many cupcakes would she have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Maria made 19 cupcakes to start with.\n2. She sold 5 of them, so she has 19 - 5 = 14 cupcakes left.\n3. Then, she made 10 more cupcakes, so she has 14 + 10 = 24 cupcakes in total.\n\nSo, Maria has 24 cupcakes in total.",
+        "answer": "24"
+    },
+    {
+        "prompt": "A store had 50 oranges in a bin. If they threw away 40 of the old ones and put 24 new ones in the bin how many would be in the bin?",
+        "reasoning": "Sure, let's work through this step by step!\n\n1. The store had 50 oranges in a bin to start with.\n2. They threw away 40 of the old oranges.\n3. So, how many oranges are left in the bin?\n\nIf we subtract 40 from 50, we get:\n\n50 - 40 = 10\n\nThere are 10 oranges left in the bin.\n\n4. But wait, the store also put 24 new oranges in the bin.\n5. So, how many oranges are in the bin now?\n\nIf we add 24 to 10, we get:\n\n10 + 24 = 34\n\nThere are 34 oranges in the bin now!",
+        "answer": "34"
+    },
+    {
+        "prompt": "In fourth grade there were 8 students at the start of the year. During the year 5 students left and 8 new students came to school. How many students were in fourth grade at the end?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. At the start of the year, there were 8 students in fourth grade.\n2. During the year, 5 students left the class.\n3. So, at the end of the year, there were 8 - 5 = 3 students left in the class.\n4. But wait, we're not done yet! Eight new students joined the class.\n5. So, at the end of the year, there were 3 + 8 = 11 students in fourth grade.\n\nSo, there were 11 students in fourth grade at the end of the year.",
+        "answer": "11"
+    },
+    {
+        "prompt": "Bianca picked 23 carrots from her garden. If she threw out 10 of them and then picked 47 more the next day, how many carrots would she have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\nStep 1: Bianca picked 23 carrots from her garden.\n\nSo, she has 23 carrots.\n\nStep 2: She threw out 10 of them.\n\nNow, she has 23 - 10 = 13 carrots left.\n\nStep 3: The next day, she picked 47 more carrots.\n\nSo, she now has 13 + 47 = 59 carrots in total.",
+        "answer": "60"
+    },
+    {
+        "prompt": "Zoe had 42 bottles of water in her fridge. If she drank 25 of them and then bought 30 more, how many bottles would she have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Zoe had 42 bottles of water in her fridge.\n2. She drank 25 of them.\n\nSo, now she has:\n\n42 - 25 = 17 bottles of water left in her fridge.\n\n3. Then, she bought 30 more bottles of water.\n\nSo, now she has a total of:\n\n17 + 30 = 47 bottles of water in her fridge.",
+        "answer": "47"
+    },
+    {
+        "prompt": "Katie had 11 songs on her mp3 player. If she deleted 7 old songs from it and then added 24 new songs, how many songs does she have on her mp3 player?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Katie had 11 songs on her mp3 player.\n2. She deleted 7 old songs from it.\n3. So, she has 11 - 7 = 4 songs left on her mp3 player.\n4. Then, she added 24 new songs to her mp3 player.\n5. So, the total number of songs on her mp3 player is 4 + 24 = 28 songs.\n\nTherefore, Katie has 28 songs on her mp3 player after deleting 7 old songs and adding 24 new ones.",
+        "answer": "28"
+    },
+    {
+        "prompt": "A store had 5 oranges in a bin. If they threw away 2 of the old ones and put 28 new ones in the bin how many would be in the bin?",
+        "reasoning": "Sure, let's break it down step by step:\n\n1. The store had 5 oranges in a bin.\n2. They threw away 2 of the old ones.\n3. So now, there are 5 - 2 = 3 oranges left in the bin.\n4. They put 28 new ones in the bin.\n5. So now, there are 3 + 28 = 31 oranges in the bin.",
+        "answer": "31"
+    },
+    {
+        "prompt": "Adam had 48 books. If he sold 19 of them and used the money he earned to buy 38 new books, how many books would Adam have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Adam had 48 books.\n2. He sold 19 of them.\n3. So, he has 48 - 19 = 29 books left.\n4. He used the money he earned from selling the books to buy 38 new books.\n5. So, he now has 29 + 38 = 67 books in total.\n\nTherefore, Adam has 67 books in total after selling 19 of his old books and using the money to buy 38 new ones.",
+        "answer": "67"
+    },
+    {
+        "prompt": "In fourth grade there were 31 students at the start of the year. During the year 5 students left and 11 new students came to school. How many students were in fourth grade at the end?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. At the start of the year, there were 31 students in fourth grade.\n2. During the year, 5 students left the class. So, we subtract 5 from 31:\n\n31 - 5 = 26\n\nNow, there are 26 students left in fourth grade.\n3. Then, 11 new students joined the class. So, we add 11 to 26:\n\n26 + 11 = 37\n\nNow, there are 37 students in fourth grade at the end of the year.",
+        "answer": "37"
+    },
+    {
+        "prompt": "For the school bake sale Robin made 42 cupcakes. If she sold 22 of them and then made 39 more, how many cupcakes would she have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Robin made 42 cupcakes for the school bake sale.\n2. She sold 22 of them.\n3. So, she has 42 - 22 = 20 cupcakes left.\n4. Then, she made 39 more cupcakes.\n5. So, she has 20 + 39 = 59 cupcakes in total.\n\nTherefore, Robin has 59 cupcakes for the school bake sale.",
+        "answer": "59"
+    },
+    {
+        "prompt": "A florist had 11 roses. If she sold 2 of them and then later picked 32 more, how many roses would she have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\nStep 1: The florist had 11 roses to start with.\n\nStep 2: She sold 2 roses, so now she has 11 - 2 = 9 roses left.\n\nStep 3: Later, she picked 32 more roses, so now she has 9 + 32 = 41 roses in total.\n\nTherefore, the final answer is 41 roses.",
+        "answer": "41"
+    },
+    {
+        "prompt": "Frank had 11 dollars. At the store he spent $3 on a new game. If he got another 14 dollars for his allowance, how much money does he have now?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Frank had $11 to start with.\n2. He spent $3 on a new game at the store.\n3. So, he has $11 - $3 = $8 left.\n4. He also received $14 in allowance.\n5. So, he has $8 + $14 = $22 now.\n\nTherefore, Frank has $22 after receiving his allowance of $14.",
+        "answer": "22"
+    },
+    {
+        "prompt": "Haley was playing a video game and had 14 lives. In a hard part of the game she lost 4 lives. If she got 36 more lives in the next level, how many lives would she have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Haley started with 14 lives.\n2. She lost 4 lives in a hard part of the game.\n3. She got 36 more lives in the next level.\n\nSo, if we add the number of lives she had before (14) to the number of lives she got in the next level (36), we get:\n\n14 + 36 = 50\n\nTherefore, Haley has 50 lives in total.",
+        "answer": "46"
+    },
+    {
+        "prompt": "Luke had 48 dollars in January. By March he had spent 11 dollars. If he got another 21 dollars from his mom, how much money would he have?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Luke had $48 in January.\n2. He spent $11 in March, so he has:\n\n$48 - $11 = $37\n\n3. His mom gave him an additional $21, so he now has:\n\n$37 + $21 = $58\n\nSo, Luke now has $58.",
+        "answer": "58"
+    },
+    {
+        "prompt": "Emily was playing a video game and had 42 lives. In a hard part of the game she lost 25 lives. If she got 24 more lives in the next level, how many lives would she have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Emily had 42 lives at the beginning of the game.\n2. She lost 25 lives in a hard part of the game.\n3. That leaves her with 42 - 25 = 17 lives.\n4. In the next level, she got 24 more lives.\n5. So, now she has 17 + 24 = 41 lives.\n\nSo, after getting 24 more lives in the next level, Emily would have 41 lives in total.",
+        "answer": "41"
+    },
+    {
+        "prompt": "Debby had 30 coloring books. If she gave away 7 of them, but then bought 35 more, how many would she have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Debby had 30 coloring books to start with.\n2. She gave away 7 of them.\n3. So, she has 30 - 7 = 23 coloring books left.\n4. Then, she bought 35 more coloring books.\n5. So, she has 23 + 35 = 58 coloring books total.",
+        "answer": "58"
+    },
+    {
+        "prompt": "The school cafeteria had 12 apples. If they used 8 to make lunch for the students and then bought 19 more, how many apples would they have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. The school cafeteria had 12 apples to start with.\n2. They used 8 apples to make lunch for the students.\n3. So, they have 12 - 8 = 4 apples left.\n4. Then, they bought 19 more apples.\n5. So, they have 4 + 19 = 23 apples now.\n\nSo, the school cafeteria has 23 apples in total.",
+        "answer": "23"
+    },
+    {
+        "prompt": "At the fair there were 31 people in line for the bumper cars. If 25 of them got tired of waiting and left and 25 more got in line, how many people would be in line?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. There were originally 31 people in line for the bumper cars.\n2. 25 of them got tired of waiting and left.\n3. So, there are 31 - 25 = 6 people left in line.\n4. Now, 25 more people get in line.\n5. So, there are now 6 + 25 = 31 people in line.\n\nSo, there would be 31 people in line after 25 people left and 25 more joined the line.",
+        "answer": "31"
+    },
+    {
+        "prompt": "A florist had 50 roses. If she sold 15 of them and then later picked 21 more, how many roses would she have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\nStep 1: The florist had 50 roses to start with.\n\nStep 2: She sold 15 of them, so now she has:\n\n50 - 15 = 35 roses\n\nStep 3: Later, she picked 21 more roses, so now she has:\n\n35 + 21 = 56 roses\n\nSo, the final answer is 56 roses.",
+        "answer": "56"
+    },
+    {
+        "prompt": "Zoe had 6 songs on her mp3 player. If she deleted 3 old songs from it and then added 20 new songs, how many songs does she have on her mp3 player?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Zoe had 6 songs on her mp3 player.\n2. She deleted 3 old songs from it.\n3. So, she has 6 - 3 = 3 songs left on her mp3 player.\n4. Then, she added 20 new songs to her mp3 player.\n5. So, she has 3 + 20 = 23 songs on her mp3 player now.",
+        "answer": "23"
+    },
+    {
+        "prompt": "At the arcade Dave won 11 tickets. If he spent 5 tickets on a beanie and later won 10 more tickets, how many would he have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Dave won 11 tickets at the arcade.\n2. He spent 5 tickets on a beanie.\n3. So, he has 11 - 5 = 6 tickets left.\n4. Later, he won 10 more tickets.\n5. Now, he has 6 + 10 = 16 tickets.\n\nSo, Dave has 16 tickets in total.",
+        "answer": "16"
+    },
+    {
+        "prompt": "A waiter had 33 customers to wait on. If 31 customers left and he got another 26 customers, how many customers would he have?",
+        "reasoning": "Sure, let's work through this step by step!\n\nOkay, so the waiter started with 33 customers.\n\nThen, 31 of those customers left, leaving him with...\n\n33 - 31 = 2 customers.\n\nSo, the waiter was left with 2 customers.\n\nBut then, he got another 26 customers, so now he has...\n\n2 + 26 = 28 customers.\n\nSo, the waiter now has 28 customers.",
+        "answer": "28"
+    },
+    {
+        "prompt": "In fourth grade there were 11 students at the start of the year. During the year 6 students left and 42 new students came to school. How many students were in fourth grade at the end?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. At the start of the year, there were 11 students in fourth grade.\n2. During the year, 6 students left the class. This means that:\n\t* 11 - 6 = 5 students remained in the class.\n3. Then, 42 new students joined the class. So:\n\t* 5 + 42 = 47 students were in fourth grade at the end of the year.\n\nSo, there were 47 students in fourth grade at the end of the year.",
+        "answer": "47"
+    },
+    {
+        "prompt": "Oliver had 11 socks. If he threw away 4 old ones that didn't fit and bought 26 new ones, how many socks would he have?",
+        "reasoning": "Sure! Let's work through this step by step:\n\n1. Oliver had 11 socks to start with.\n2. He threw away 4 old socks that didn't fit.\n3. So, he has 11 - 4 = 7 socks left.\n4. He bought 26 new socks.\n5. So, he now has 7 + 26 = 33 socks in total.\n\nTherefore, Oliver would have 33 socks after throwing away the old ones and buying new ones.",
+        "answer": "33"
+    },
+    {
+        "prompt": "A store had 40 oranges in a bin. If they threw away 25 of the old ones and put 21 new ones in the bin how many would be in the bin?",
+        "reasoning": "Sure, let's work through this step by step!\n\nSo, we know that the store had 40 oranges in a bin to start with. Then, they threw away 25 of the old ones. That means we need to subtract 25 from 40:\n\n40 - 25 =?\n\nDo you know the answer?",
+        "answer": "36"
+    },
+    {
+        "prompt": "At the arcade Edward won 9 tickets. If he spent 4 tickets on a beanie and later won 4 more tickets, how many would he have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Edward won 9 tickets at the arcade.\n2. He spent 4 tickets on a beanie.\n3. So, he has 9 - 4 = 5 tickets left.\n4. Later, he won 4 more tickets.\n5. Now, he has 5 + 4 = 9 tickets again.\n\nSo, Edward has 9 tickets in total.",
+        "answer": "9"
+    },
+    {
+        "prompt": "In fourth grade there were 4 students at the start of the year. During the year 3 students left and 42 new students came to school. How many students were in fourth grade at the end?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. At the start of the year, there were 4 students in fourth grade.\n2. During the year, 3 students left the class, so now there are:\n4 - 3 = 1 student left in the class.\n3. Then, 42 new students joined the class, so now there are:\n1 + 42 = 43 students in the class.\n\nSo, at the end of the year, there were 43 students in fourth grade.",
+        "answer": "43"
+    },
+    {
+        "prompt": "Haley picked 28 carrots from her garden. If she threw out 11 of them and then picked 9 more the next day, how many carrots would she have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\nStep 1: Haley picked 28 carrots from her garden.\n\nSo, Haley has 28 carrots.\n\nStep 2: She threw out 11 of them.\n\nNow, Haley has 28 - 11 = 17 carrots left.\n\nStep 3: She picked 9 more the next day.\n\nNow, Haley has 17 + 9 = 26 carrots.\n\nSo, in total, Haley has 26 carrots.",
+        "answer": "26"
+    },
+    {
+        "prompt": "Roger had 25 books. If he sold 21 of them and used the money he earned to buy 30 new books, how many books would Roger have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Roger had 25 books.\n2. He sold 21 of them.\n3. So, he has 25 - 21 = 4 books left.\n4. He used the money he earned from selling the books to buy 30 new books.\n5. So, he now has 4 + 30 = 34 books in total.\n\nTherefore, Roger has 34 books.",
+        "answer": "34"
+    },
+    {
+        "prompt": "A florist had 5 roses. If she sold 3 of them and then later picked 34 more, how many roses would she have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. The florist started with 5 roses.\n2. She sold 3 of them, so now she has 5 - 3 = 2 roses left.\n3. Later, she picked 34 more roses, so now she has 2 + 34 = 36 roses in total.\n\nSo, the final answer is 36 roses.",
+        "answer": "36"
+    },
+    {
+        "prompt": "Wendy was playing a video game and had 10 lives. In a hard part of the game she lost 6 lives. If she got 37 more lives in the next level, how many lives would she have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Wendy started with 10 lives.\n2. She lost 6 lives in a hard part of the game.\n3. She got 37 more lives in the next level.\n\nSo, if we add the number of lives she had before (10) to the number of lives she got in the next level (37), we get:\n\n10 + 37 = 47\n\nTherefore, Wendy has 47 lives in total.",
+        "answer": "41"
+    },
+    {
+        "prompt": "John had 5 dollars. At the store he spent $2 on a new game. If he got another 26 dollars for his allowance, how much money does he have now?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. John had $5 to start with.\n2. He spent $2 on a new game at the store.\n3. So, he has $5 - $2 = $3 left.\n4. He also received $26 for his allowance.\n5. So, he has $3 + $26 = $29 now.\n\nTherefore, John has a total of $29.",
+        "answer": "29"
+    },
+    {
+        "prompt": "For the school bake sale Chloe made 28 cupcakes. If she sold 25 of them and then made 8 more, how many cupcakes would she have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Chloe made 28 cupcakes for the school bake sale.\n2. She sold 25 of them.\n3. So, she has 28 - 25 = 3 cupcakes left.\n4. Then, she made 8 more cupcakes.\n5. So, she has 3 + 8 = 11 cupcakes in total.\n\nTherefore, Chloe has 11 cupcakes.",
+        "answer": "11"
+    },
+    {
+        "prompt": "At the town carnival Billy rode the ferris wheel 7 times and the bumper cars 3 times. If each ride cost 5 tickets, how many tickets did he use?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Ferris Wheel:\nBilly rode the ferris wheel 7 times, so he used 7 x 5 = 35 tickets.\n2. Bumper Cars:\nBilly rode the bumper cars 3 times, so he used 3 x 5 = 15 tickets.\n\nIn total, Billy used 35 + 15 = 50 tickets.",
+        "answer": "50"
+    },
+    {
+        "prompt": "Chloe was unboxing some of her old winter clothes. She found 4 boxes of clothing and inside each box there were 2 scarves and 6 mittens. How many pieces of winter clothing did Chloe have total?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Chloe had 4 boxes of winter clothing.\n2. In each box, there were:\n\t* 2 scarves\n\t* 6 mittens\n3. So, in total, Chloe had:\n\t* 4 boxes x 2 scarves per box = 8 scarves\n\t* 4 boxes x 6 mittens per box = 24 mittens\n4. Therefore, Chloe had a total of 8 scarves and 24 mittens.",
+        "answer": "32"
+    },
+    {
+        "prompt": "A waiter had 9 tables he was waiting on, with 7 women and 3 men at each table. How many customers total did the waiter have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Each table has 3 men, so there are 3 x 9 = 27 men in total.\n2. Each table has 7 women, so there are 7 x 9 = 63 women in total.\n3. In total, the waiter has 27 + 63 = 90 customers.",
+        "answer": "90"
+    },
+    {
+        "prompt": "April's discount flowers was having a sale where each flower was 3 dollars. If Emily bought 2 roses and 2 daisies, how much did she spend?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Each rose costs $3.\n2. Emily bought 2 roses, so she spent 2 x $3 = $6 on roses.\n3. Each daisy costs $3.\n4. Emily bought 2 daisies, so she spent 2 x $3 = $6 on daisies.\n5. In total, Emily spent $6 + $6 = $12.\n\nSo, Emily spent $12 on 2 roses and 2 daisies.",
+        "answer": "12"
+    },
+    {
+        "prompt": "Isabel had 2 pages of math homework and 4 pages of reading homework. If each page had 5 problems on it, how many problems did she have to complete total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Math homework:\n\t* 2 pages x 5 problems per page = 10 problems\n2. Reading homework:\n\t* 4 pages x 5 problems per page = 20 problems\n\nTotal number of problems:\n10 + 20 = 30 problems\n\nSo, Isabel has 30 problems to complete in total.",
+        "answer": "30"
+    },
+    {
+        "prompt": "Wendy was playing a video game where she scores 5 points for each treasure she finds. If she found 4 treasures on the first level and 3 on the second, what would her score be?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Level 1:\nWendy found 4 treasures, so she scored 4 x 5 = 20 points.\n2. Level 2:\nWendy found 3 treasures, so she scored 3 x 5 = 15 points.\n\nTotal score: 20 + 15 = 35 points.",
+        "answer": "35"
+    },
+    {
+        "prompt": "There were 7 friends playing a video game online when 2 more players joined the game. If each player had 7 lives, how many lives did they have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. There were 7 friends playing a video game online.\n2. Two more players joined the game.\n3. Each of the 7 friends had 7 lives.\n\nSo, if we add the number of lives for the 7 friends and the 2 new players, we get:\n\n7 (friends) x 7 (lives) = 49\n2 (new players) x 7 (lives) = 14\n\nTotal number of lives: 49 + 14 = 63\n\nTherefore, the total number of lives for all 9 players is 63.",
+        "answer": "63"
+    },
+    {
+        "prompt": "Paul bought 6 boxes of chocolate candy and 4 boxes of caramel candy. If each box has 9 pieces inside it, how much candy did he have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Paul bought 6 boxes of chocolate candy.\n\t* Each box of chocolate candy has 9 pieces, so...\n2. Paul has 6 x 9 = 54 pieces of chocolate candy.\n3. Paul also bought 4 boxes of caramel candy.\n\t* Each box of caramel candy has 9 pieces, so...\n4. Paul has 4 x 9 = 36 pieces of caramel candy.\n5. In total, Paul has 54 + 36 = 90 pieces of candy.",
+        "answer": "90"
+    },
+    {
+        "prompt": "A pet store has 6 bird cages. If each cage has 6 parrots and 2 parakeets in it, how many birds does the pet store have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Each cage has 6 parrots, so there are 6 x 6 = 36 parrots in total.\n2. Each cage also has 2 parakeets, so there are 6 x 2 = 12 parakeets in total.\n3. Therefore, the pet store has a total of 36 + 12 = 48 birds.",
+        "answer": "48"
+    },
+    {
+        "prompt": "Rachel was organizing her book case making sure each of the shelves had exactly 9 books on it. If she had 6 shelves of mystery books and 2 shelves of picture books, how many books did she have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Rachel had 6 shelves of mystery books.\n2. Each shelf had exactly 9 books on it.\n3. So, in total, Rachel had 6 x 9 = 54 mystery books.\n4. Rachel also had 2 shelves of picture books.\n5. Each shelf had exactly 9 books on it again.\n6. So, in total, Rachel had 2 x 9 = 18 picture books.\n7. Now we add up all the books Rachel had: 54 (mystery books) + 18 (picture books) = 72 books.\n\nTherefore, Rachel had a total of 72 books in her bookcase.",
+        "answer": "72"
+    },
+    {
+        "prompt": "Rachel was unboxing some of her old winter clothes. She found 7 boxes of clothing and inside each box there were 3 scarves and 4 mittens. How many pieces of winter clothing did Rachel have total?",
+        "reasoning": "Sure, let's work through this step by step!\n\n1. Rachel had 7 boxes of winter clothing.\n2. In each box, there were 3 scarves.\n3. So, in total, Rachel had 7 x 3 = 21 scarves.\n4. In each box, there were 4 mittens.\n5. So, in total, Rachel had 7 x 4 = 28 mittens.\n6. To find the total number of pieces of winter clothing Rachel had, we add the number of scarves and mittens:\n21 + 28 = 49\n\nTherefore, Rachel had 49 pieces of winter clothing.",
+        "answer": "49"
+    },
+    {
+        "prompt": "A pet store has 9 bird cages. If each cage has 2 parrots and 2 parakeets in it, how many birds does the pet store have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Each cage has 2 parrots and 2 parakeets, so there are a total of:\n\t* 2 x 9 = 18 parrots\n\t* 2 x 9 = 18 parakeets\n2. Therefore, the pet store has a total of:\n\t* 18 + 18 = 36 birds.",
+        "answer": "36"
+    },
+    {
+        "prompt": "Cody bought 7 boxes of chocolate candy and 3 boxes of caramel candy. If each box has 8 pieces inside it, how much candy did he have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Cody bought 7 boxes of chocolate candy.\n\t* Each box of chocolate candy has 8 pieces, so...\n2. Cody has 7 x 8 = 56 pieces of chocolate candy.\n3. Cody also bought 3 boxes of caramel candy.\n\t* Each box of caramel candy has 8 pieces, so...\n4. Cody has 3 x 8 = 24 pieces of caramel candy.\n5. In total, Cody has 56 + 24 = 80 pieces of candy.",
+        "answer": "80"
+    },
+    {
+        "prompt": "At Billy's Restaurant a group with 2 adults and 5 children came in to eat. If each meal cost 3 dollars, how much was the bill?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Each adult meal costs $3.\n2. There are 2 adults, so the total cost for the adults is 2 x $3 = $6.\n3. Each child meal costs $3.\n4. There are 5 children, so the total cost for the children is 5 x $3 = $15.\n5. The total bill is the sum of the costs for the adults and the children: $6 + $15 = $21.\n\nSo, the bill for the group of 2 adults and 5 children at Billy's Restaurant would be $21.",
+        "answer": "21"
+    },
+    {
+        "prompt": "Paul was collecting cans for recycling. On Saturday he filled 6 bags up and on Sunday he filled 3 more bags. If each bag had 8 cans in it, how many cans did he pick up total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. On Saturday, Paul filled 6 bags with 8 cans in each bag, so he collected a total of 6 x 8 = 48 cans on Saturday.\n2. On Sunday, Paul filled 3 more bags with 8 cans in each bag, so he collected a total of 3 x 8 = 24 cans on Sunday.\n3. In total, Paul collected 48 + 24 = 72 cans over the weekend.\n\nSo, Paul collected 72 cans for recycling.",
+        "answer": "72"
+    },
+    {
+        "prompt": "While playing a trivia game, Adam answered 5 questions correct in the first half and 5 questions correct in the second half. If each question was worth 5 points, what was his final score?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. In the first half, Adam answered 5 questions correctly.\n2. Each question was worth 5 points, so he earned 5 x 5 = 25 points in the first half.\n3. In the second half, Adam answered 5 more questions correctly.\n4. He earned another 5 x 5 = 25 points in the second half.\n5. To find his final score, we add the points he earned in both halves: 25 + 25 = 50.\n\nSo, Adam's final score is 50 points.",
+        "answer": "50"
+    },
+    {
+        "prompt": "Haley's favorite band was holding a concert where tickets were 4 dollars each. Haley bought 3 tickets for herself and her friends and 5 extra tickets in case anyone else wanted to go. How much did she spend?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Haley bought 3 tickets for herself and her friends.\n\n3 x $4 = $12\n\nSo, Haley spent $12 on the first 3 tickets.\n\n2. She also bought 5 extra tickets \"in case anyone else wanted to go\".\n\n5 x $4 = $20\n\nSo, Haley spent an additional $20 on the extra tickets.\n\nTotal amount spent: $12 + $20 = $32\n\nTherefore, Haley spent a total of $32 on concert tickets.",
+        "answer": "32"
+    },
+    {
+        "prompt": "Luke was putting his spare change into piles. He had 5 piles of quarters and 5 piles of dimes. If each pile had 3 coins in it, how many coins did he have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Luke had 5 piles of quarters.\n2. Each pile of quarters had 3 coins in it, so there were 5 x 3 = 15 quarters in total.\n3. Luke also had 5 piles of dimes.\n4. Each pile of dimes had 3 coins in it, so there were 5 x 3 = 15 dimes in total.\n5. Therefore, Luke had a total of 15 quarters + 15 dimes = 30 coins.",
+        "answer": "30"
+    },
+    {
+        "prompt": "Victor and his friend were buying trick decks from the magic shop for 8 dollars each. How much did they spend if Victor bought 6 decks and his friend bought 2 decks?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Victor bought 6 decks of cards, so he spent:\n\n6 decks x $8 per deck = $48\n\n2. His friend bought 2 decks of cards, so he spent:\n\n2 decks x $8 per deck = $16\n\nIn total, they spent:\n\n$48 + $16 = $64",
+        "answer": "64"
+    },
+    {
+        "prompt": "Katie had 7 pages of math homework and 3 pages of reading homework. If each page had 9 problems on it, how many problems did she have to complete total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Math homework:\n\t* 7 pages x 9 problems per page = 63 problems\n2. Reading homework:\n\t* 3 pages x 9 problems per page = 27 problems\n\nTotal number of problems:\n63 + 27 = 90\n\nSo, Katie has to complete 90 problems in total.",
+        "answer": "90"
+    },
+    {
+        "prompt": "Faye was playing a video game where she scores 7 points for each treasure she finds. If she found 2 treasures on the first level and 6 on the second, what would her score be?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Level 1:\nFaye found 2 treasures, so she scored 2 x 7 = 14 points.\n2. Level 2:\nFaye found 6 treasures, so she scored 6 x 7 = 42 points.\n\nTotal score: 14 + 42 = 56 points.",
+        "answer": "56"
+    },
+    {
+        "prompt": "Gwen was organizing her book case making sure each of the shelves had exactly 9 books on it. If she had 3 shelves of mystery books and 5 shelves of picture books, how many books did she have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Gwen had 3 shelves of mystery books.\n2. Each shelf had exactly 9 books, so she had 3 x 9 = 27 mystery books.\n3. She also had 5 shelves of picture books.\n4. Each shelf had exactly 9 books, so she had 5 x 9 = 45 picture books.\n5. In total, Gwen had 27 + 45 = 72 books.",
+        "answer": "72"
+    },
+    {
+        "prompt": "There were 2 friends playing a video game online when 2 more players joined the game. If each player had 6 lives, how many lives did they have total?",
+        "reasoning": "Sure! Let's think step by step.\n\n1. The first two players had 6 lives each, so together they had 6 + 6 = 12 lives.\n2. When two more players joined the game, each of the original players lost 2 lives (since they now had to share their lives with the new players).\n3. So, the first two players had 12 - 2 = 10 lives left.\n4. The two new players started with 6 lives each, for a total of 6 + 6 = 12 lives.\n\nSo, in total, there are 10 + 12 = 22 lives in the game.",
+        "answer": "24"
+    },
+    {
+        "prompt": "Wendy bought 4 new chairs and 4 new tables for her house. If she spent 6 minutes on each piece furniture putting it together, how many minutes did it take her to finish?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Wendy bought 4 new chairs, so she had to spend 6 minutes assembling each chair, for a total of:\n\n4 chairs x 6 minutes/chair = 24 minutes\n\n2. Wendy also bought 4 new tables, so she had to spend 6 minutes assembling each table, for a total of:\n\n4 tables x 6 minutes/table = 24 minutes\n\n3. In total, Wendy spent 24 + 24 = 48 minutes assembling all the furniture.",
+        "answer": "48"
+    },
+    {
+        "prompt": "April's discount flowers was having a sale where each flower was 3 dollars. If Zoe bought 8 roses and 2 daisies, how much did she spend?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Each rose costs $3.\n2. Zoe bought 8 roses, so she spent:\n\n8 x $3 = $24\n\non roses.\n\n3. Each daisy costs $3 as well.\n4. Zoe bought 2 daisies, so she spent:\n\n2 x $3 = $6\n\non daisies.\n\n5. In total, Zoe spent:\n\n$24 + $6 = $30\n\non both roses and daisies.",
+        "answer": "30"
+    },
+    {
+        "prompt": "Paige was unboxing some of her old winter clothes. She found 6 boxes of clothing and inside each box there were 5 scarves and 5 mittens. How many pieces of winter clothing did Paige have total?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Paige had 6 boxes of winter clothing.\n2. Inside each box, there were:\n\t* 5 scarves\n\t* 5 mittens\n3. So, in total, Paige had:\n\t* 6 boxes x 5 scarves per box = 30 scarves\n\t* 6 boxes x 5 mittens per box = 30 mittens\n4. Therefore, Paige had a total of 30 scarves and 30 mittens, for a total of 60 pieces of winter clothing.",
+        "answer": "60"
+    },
+    {
+        "prompt": "Sam was collecting cans for recycling. On Saturday he filled 4 bags up and on Sunday he filled 3 more bags. If each bag had 6 cans in it, how many cans did he pick up total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. On Saturday, Sam filled 4 bags with cans.\n2. Each bag contained 6 cans, so Sam collected a total of 4 x 6 = 24 cans on Saturday.\n3. On Sunday, Sam filled 3 more bags with cans.\n4. Again, each bag contained 6 cans, so Sam collected a total of 3 x 6 = 18 cans on Sunday.\n5. In total, Sam collected 24 + 18 = 42 cans over the weekend.\n\nSo, Sam collected 42 cans for recycling.",
+        "answer": "42"
+    },
+    {
+        "prompt": "George was working as a sacker at a grocery store where he made 5 dollars an hour. On Monday he worked 7 hours and on Tuesday he worked 2 hours. How much money did George make in those two days?",
+        "reasoning": "Sure, let's break it down step by step!\n\nMonday:\n\n* George worked for 7 hours\n* His pay rate is $5 per hour\n\nSo, on Monday, George earned:\n\n7 hours x $5 per hour = $35\n\nTuesday:\n\n* George worked for 2 hours\n* His pay rate is still $5 per hour\n\nSo, on Tuesday, George earned:\n\n2 hours x $5 per hour = $10\n\nTotal amount earned by George in both days:\n\n$35 + $10 = $45\n\nTherefore, George made $45 in those two days.",
+        "answer": "45"
+    },
+    {
+        "prompt": "While playing a trivia game, Frank answered 3 questions correct in the first half and 2 questions correct in the second half. If each question was worth 3 points, what was his final score?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. First half:\n\t* Frank answered 3 questions correctly, so he scored 3 x 3 = 9 points.\n2. Second half:\n\t* Frank answered 2 questions correctly, so he scored 2 x 3 = 6 points.\n3. Total score:\n\t* Add the scores from the two halves: 9 + 6 = 15 points.\n\nTherefore, Frank's final score is 15 points.",
+        "answer": "15"
+    },
+    {
+        "prompt": "Edward and his friend were buying trick decks from the magic shop for 9 dollars each. How much did they spend if Edward bought 4 decks and his friend bought 4 decks?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Edward bought 4 decks of cards, so he spent:\n\n4 decks x $9 per deck = $36\n\n2. His friend also bought 4 decks of cards, so they spent:\n\n4 decks x $9 per deck = $36\n\nIn total, they spent $36 + $36 = $72.",
+        "answer": "72"
+    },
+    {
+        "prompt": "Tom and his friend were buying trick decks from the magic shop for 8 dollars each. How much did they spend if Tom bought 3 decks and his friend bought 5 decks?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Tom bought 3 decks of cards, so he spent:\n\n3 decks x $8 per deck = $24\n\n2. His friend bought 5 decks of cards, so he spent:\n\n5 decks x $8 per deck = $40\n\nIn total, they spent:\n\n$24 + $40 = $64",
+        "answer": "64"
+    },
+    {
+        "prompt": "While shopping for music online, Megan bought 2 country albums and 8 pop albums. Each album came with a lyric sheet and had 7 songs. How many songs did Megan buy total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Country albums:\n\t* Each country album has 7 songs.\n\t* Megan bought 2 country albums.\n\t* Total number of songs in country albums = 2 x 7 = 14 songs.\n2. Pop albums:\n\t* Each pop album has 7 songs.\n\t* Megan bought 8 pop albums.\n\t* Total number of songs in pop albums = 8 x 7 = 56 songs.\n3. Total number of songs:\n\t* Add the number of songs from the country albums to the number of songs from the pop albums.\n\tTotal number of songs = 14 + 56 = 70 songs.\n\nSo, Megan bought a total of 70 songs while shopping for music online.",
+        "answer": "70"
+    },
+    {
+        "prompt": "Victor was working as a sacker at a grocery store where he made 6 dollars an hour. On Monday he worked 5 hours and on Tuesday he worked 5 hours. How much money did Victor make in those two days?",
+        "reasoning": "Sure, let's break it down step by step!\n\nMonday:\n\n* Victor worked for 5 hours (from 9am to 2pm)\n* His hourly wage is $6/hour\n* Total amount earned on Monday = 5 hours x $6/hour = $30\n\nTuesday:\n\n* Victor worked for 5 hours (from 9am to 2pm)\n* His hourly wage is $6/hour\n* Total amount earned on Tuesday = 5 hours x $6/hour = $30\n\nTotal amount earned in both days = $30 + $30 = $60\n\nSo, Victor made $60 in those two days.",
+        "answer": "60"
+    },
+    {
+        "prompt": "A pet store has 6 bird cages. If each cage has 2 parrots and 7 parakeets in it, how many birds does the pet store have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Each cage has 2 parrots.\n2. Each cage has 7 parakeets.\n3. There are 6 cages in total.\n\nSo, to find out how many birds the pet store has, we need to multiply the number of parrots and parakeets for each cage, and then add them up:\n\n2 x 2 = 4 (parrots)\n7 x 7 = 49 (parakeets)\n4 + 49 = 53\n\nTherefore, the pet store has 53 birds in total!",
+        "answer": "54"
+    },
+    {
+        "prompt": "Maria bought 2 new chairs and 2 new tables for her house. If she spent 8 minutes on each piece furniture putting it together, how many minutes did it take her to finish?",
+        "reasoning": "Sure, let's break it down step by step:\n\n1. Maria put together 2 chairs:\n\t* Each chair took 8 minutes to assemble, so she spent a total of 2 x 8 = 16 minutes assembling the chairs.\n2. Maria put together 2 tables:\n\t* Each table took 8 minutes to assemble, so she spent a total of 2 x 8 = 16 minutes assembling the tables.\n\nIn total, Maria spent 16 + 16 = 32 minutes assembling all four pieces of furniture.",
+        "answer": "32"
+    },
+    {
+        "prompt": "Olivia was playing a video game where she scores 8 points for each treasure she finds. If she found 2 treasures on the first level and 2 on the second, what would her score be?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Level 1:\nOlivia found 2 treasures, so she scored 8 points x 2 = 16 points for Level 1.\n2. Level 2:\nOlivia found 2 more treasures, so she scored 8 points x 2 = 16 points for Level 2.\n\nTotal score: 16 + 16 = 32 points.",
+        "answer": "32"
+    },
+    {
+        "prompt": "A waiter had 6 tables he was waiting on, with 3 women and 5 men at each table. How many customers total did the waiter have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. The waiter had 6 tables in total.\n2. At each table, there were 3 women and 5 men.\n3. So, the waiter had a total of 3 x 6 = 18 women at his tables.\n4. And he also had 5 x 6 = 30 men at his tables.\n5. In total, the waiter had 18 + 30 = 48 customers.",
+        "answer": "48"
+    },
+    {
+        "prompt": "Faye was selling her necklaces at a garage sale. She sold 3 bead necklaces and 7 gem stone necklaces. If each necklace cost 7 dollars, how much money did she earn?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Bead necklaces:\n\t* Sold 3 necklaces x $7 per necklace = $21\n2. Gem stone necklaces:\n\t* Sold 7 necklaces x $7 per necklace = $49\n\nTotal earnings: $21 + $49 = $70\n\nSo, Faye earned $70 from her garage sale.",
+        "answer": "70"
+    },
+    {
+        "prompt": "At the town carnival Oliver rode the ferris wheel 5 times and the bumper cars 4 times. If each ride cost 7 tickets, how many tickets did he use?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Ferris Wheel:\nOliver rode the ferris wheel 5 times, so he used 5 x 7 = 35 tickets.\n2. Bumper Cars:\nOliver rode the bumper cars 4 times, so he used 4 x 7 = 28 tickets.\n\nIn total, Oliver used 35 + 28 = 63 tickets.",
+        "answer": "63"
+    },
+    {
+        "prompt": "There were 5 friends playing a video game online when 2 more players joined the game. If each player had 8 lives, how many lives did they have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. The original 5 friends had 5 x 8 = 40 lives in total.\n2. When 2 more players joined the game, the total number of lives increased by 2 x 8 = 16 lives.\n3. So, the total number of lives now is 40 + 16 = 56 lives.\n\nTherefore, the total number of lives that all 7 players had was 56.",
+        "answer": "56"
+    },
+    {
+        "prompt": "Katie was selling her necklaces at a garage sale. She sold 4 bead necklaces and 3 gem stone necklaces. If each necklace cost 3 dollars, how much money did she earn?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Bead necklaces:\n\t* Katie sold 4 bead necklaces x $3 = $12\n2. Gem stone necklaces:\n\t* Katie sold 3 gem stone necklaces x $3 = $9\n3. Total earnings:\n\t* $12 + $9 = $21\n\nSo, Katie earned $21 at her garage sale.",
+        "answer": "21"
+    },
+    {
+        "prompt": "Edward was working as a sacker at a grocery store where he made 6 dollars an hour. On Monday he worked 3 hours and on Tuesday he worked 5 hours. How much money did Edward make in those two days?",
+        "reasoning": "Sure, let's break it down step by step!\n\nMonday:\n\n* Edward worked for 3 hours (from 9am to 12pm)\n* His hourly wage is $6/hour\n* So, he earned $6 x 3 = $18\n\nTuesday:\n\n* Edward worked for 5 hours (from 9am to 2pm)\n* His hourly wage is $6/hour\n* So, he earned $6 x 5 = $30\n\nTotal amount earned in both days:\n\n$18 + $30 = $48\n\nTherefore, Edward made $48 in those two days.",
+        "answer": "48"
+    },
+    {
+        "prompt": "While playing a trivia game, Mike answered 3 questions correct in the first half and 5 questions correct in the second half. If each question was worth 3 points, what was his final score?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. First half:\nMike answered 3 questions correctly in the first half, so he scored 3 x 3 = 9 points.\n2. Second half:\nMike answered 5 questions correctly in the second half, so he scored 5 x 3 = 15 points.\n3. Total score:\nAdding his scores from the two halves gives us:\n9 + 15 = 24\n\nSo, Mike's final score is 24 points.",
+        "answer": "24"
+    },
+    {
+        "prompt": "Amy was playing a video game where she scores 4 points for each treasure she finds. If she found 6 treasures on the first level and 2 on the second, what would her score be?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. On the first level, Amy found 6 treasures, so she scored 6 x 4 = 24 points.\n2. On the second level, Amy found 2 treasures, so she scored 2 x 4 = 8 points.\n3. Total score = 24 + 8 = 32 points.\n\nSo, Amy's total score would be 32 points.",
+        "answer": "32"
+    },
+    {
+        "prompt": "A waiter had 9 tables he was waiting on, with 4 women and 3 men at each table. How many customers total did the waiter have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. The waiter had 9 tables in total.\n2. Each table had 4 people sitting at it, so there were a total of 9 x 4 = 36 people at the tables.\n3. Since there were 3 men at each table, there were a total of 3 x 9 = 27 men at the tables.\n4. Similarly, since there were 4 women at each table, there were a total of 4 x 9 = 36 women at the tables.\n5. Therefore, the total number of customers the waiter had was:\n\n27 (men) + 36 (women) = 63\n\nSo the waiter had 63 customers in total.",
+        "answer": "63"
+    },
+    {
+        "prompt": "Chloe was organizing her book case making sure each of the shelves had exactly 6 books on it. If she had 5 shelves of mystery books and 4 shelves of picture books, how many books did she have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Chloe had 5 shelves of mystery books.\n2. Each shelf had exactly 6 books on it, so she had a total of 5 x 6 = 30 mystery books.\n3. She also had 4 shelves of picture books.\n4. Each shelf had exactly 6 books on it, so she had a total of 4 x 6 = 24 picture books.\n5. In total, Chloe had 30 + 24 = 54 books.",
+        "answer": "54"
+    },
+    {
+        "prompt": "While shopping for music online, Isabel bought 6 country albums and 2 pop albums. Each album came with a lyric sheet and had 9 songs. How many songs did Isabel buy total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Isabel bought 6 country albums.\n2. Each country album had 9 songs.\n3. So, Isabel bought 6 x 9 = 54 country songs.\n4. Isabel also bought 2 pop albums.\n5. Each pop album had 9 songs.\n6. So, Isabel bought 2 x 9 = 18 pop songs.\n7. In total, Isabel bought 54 + 18 = 72 songs.",
+        "answer": "72"
+    },
+    {
+        "prompt": "At Oliver's Restaurant a group with 2 adults and 4 children came in to eat. If each meal cost 3 dollars, how much was the bill?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Adults: 2 x $3 = $6\n2. Children: 4 x $3 = $12\n\nTotal bill: $6 + $12 = $18",
+        "answer": "18"
+    },
+    {
+        "prompt": "Tiffany had 6 pages of math homework and 4 pages of reading homework. If each page had 3 problems on it, how many problems did she have to complete total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Math homework:\n\t* 6 pages x 3 problems per page = 18 problems\n2. Reading homework:\n\t* 4 pages x 3 problems per page = 12 problems\n\nTotal number of problems:\n18 (math) + 12 (reading) = 30 problems\n\nSo, Tiffany has 30 problems to complete in total.",
+        "answer": "30"
+    },
+    {
+        "prompt": "April's discount flowers was having a sale where each flower was 3 dollars. If Robin bought 5 roses and 4 daisies, how much did she spend?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Each rose costs $3.\n2. Robin bought 5 roses, so she spent 5 x $3 = $15 on roses.\n3. Each daisy costs $3.\n4. Robin bought 4 daisies, so she spent 4 x $3 = $12 on daisies.\n5. In total, Robin spent $15 + $12 = $27.\n\nSo, Robin spent $27 on flowers at April's Discount Flowers.",
+        "answer": "27"
+    },
+    {
+        "prompt": "Zoe was unboxing some of her old winter clothes. She found 8 boxes of clothing and inside each box there were 4 scarves and 6 mittens. How many pieces of winter clothing did Zoe have total?",
+        "reasoning": "Sure, let's break it down step by step:\n\n1. Zoe had 8 boxes of winter clothing.\n2. In each box, there were 4 scarves.\n3. So, in total, Zoe had 8 x 4 = 32 scarves.\n4. In each box, there were 6 mittens.\n5. So, in total, Zoe had 8 x 6 = 48 mittens.\n6. Therefore, Zoe had a total of 32 scarves + 48 mittens = 80 pieces of winter clothing.",
+        "answer": "80"
+    },
+    {
+        "prompt": "There were 2 friends playing a video game online when 2 more players joined the game. If each player had 3 lives, how many lives did they have total?",
+        "reasoning": "Sure! Let's think step by step.\n\n1. The first two players had 3 lives each, so together they had 3 + 3 = 6 lives.\n2. When two more players joined the game, each of the original players lost one life, so they now have 6 - 2 = 4 lives left.\n\nSo, in total, there are 4 + 2 = 6 lives in the game.",
+        "answer": "12"
+    },
+    {
+        "prompt": "Adam bought 2 boxes of chocolate candy and 5 boxes of caramel candy. If each box has 4 pieces inside it, how much candy did he have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Adam bought 2 boxes of chocolate candy:\n\t* Each box of chocolate candy has 4 pieces, so Adam bought 2 x 4 = 8 pieces of chocolate candy.\n2. Adam bought 5 boxes of caramel candy:\n\t* Each box of caramel candy has 4 pieces, so Adam bought 5 x 4 = 20 pieces of caramel candy.\n3. Total number of pieces of candy Adam bought:\n\t* 8 (chocolate) + 20 (caramel) = 28 pieces of candy.\n\nSo, Adam had a total of 28 pieces of candy.",
+        "answer": "28"
+    },
+    {
+        "prompt": "A pet store has 8 bird cages. If each cage has 2 parrots and 7 parakeets in it, how many birds does the pet store have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Each cage has 2 parrots.\n2. Each cage has 7 parakeets.\n3. There are 8 cages in total.\n\nSo, let's count the number of birds in each category:\n\n1. Parrots: 2 x 8 = 16\n2. Parakeets: 7 x 8 = 56\n\nAdding both numbers together gives us a total of:\n\n16 + 56 = 72\n\nTherefore, the pet store has 72 birds in total.",
+        "answer": "72"
+    },
+    {
+        "prompt": "Lana's favorite band was holding a concert where tickets were 6 dollars each. Lana bought 8 tickets for herself and her friends and 2 extra tickets in case anyone else wanted to go. How much did she spend?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Lana bought 8 tickets for herself and her friends at $6 each, so she spent:\n\n8 x $6 = $48\n\n2. She also bought 2 extra tickets \"in case anyone else wanted to go\". So, she spent an additional:\n\n2 x $6 = $12\n\nTotal amount spent by Lana:\n\n$48 + $12 = $60",
+        "answer": "60"
+    },
+    {
+        "prompt": "At Tom's Restaurant a group with 2 adults and 5 children came in to eat. If each meal cost 8 dollars, how much was the bill?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Adults: 2 x $8 = $16\n2. Children: 5 x $8 = $40\n3. Total bill: $16 + $40 = $56\n\nSo the bill for the group of 2 adults and 5 children at Tom's Restaurant would be $56.",
+        "answer": "56"
+    },
+    {
+        "prompt": "Gwen was organizing her book case making sure each of the shelves had exactly 4 books on it. If she had 5 shelves of mystery books and 3 shelves of picture books, how many books did she have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Gwen had 5 shelves of mystery books.\n2. Each shelf had exactly 4 books on it, so she had 5 x 4 = 20 mystery books.\n3. She also had 3 shelves of picture books.\n4. Each shelf had exactly 4 books on it, so she had 3 x 4 = 12 picture books.\n5. In total, Gwen had 20 + 12 = 32 books.",
+        "answer": "32"
+    },
+    {
+        "prompt": "While shopping for music online, Isabel bought 4 country albums and 5 pop albums. Each album came with a lyric sheet and had 8 songs. How many songs did Isabel buy total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Isabel bought 4 country albums.\n2. Each country album had 8 songs, so Isabel bought 4 x 8 = 32 country songs.\n3. Isabel also bought 5 pop albums.\n4. Each pop album had 8 songs, so Isabel bought 5 x 8 = 40 pop songs.\n5. In total, Isabel bought 32 + 40 = 72 songs.",
+        "answer": "72"
+    },
+    {
+        "prompt": "Megan was selling her necklaces at a garage sale. She sold 7 bead necklaces and 3 gem stone necklaces. If each necklace cost 9 dollars, how much money did she earn?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Bead Necklaces:\nMegan sold 7 bead necklaces at $9 each, so she earned:\n\n7 x $9 = $63\n\n2. Gem Stone Necklaces:\nMegan sold 3 gem stone necklaces at $9 each, so she earned:\n\n3 x $9 = $27\n\nTotal Earnings:\n\n$63 + $27 = $90\n\nSo, Megan earned $90 from her garage sale.",
+        "answer": "90"
+    },
+    {
+        "prompt": "Rachel was playing a video game where she scores 9 points for each treasure she finds. If she found 5 treasures on the first level and 2 on the second, what would her score be?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Level 1:\nRachel found 5 treasures, so she scored 9 x 5 = 45 points.\n2. Level 2:\nRachel found 2 treasures, so she scored 9 x 2 = 18 points.\n\nTotal score: 45 + 18 = 63 points.",
+        "answer": "63"
+    },
+    {
+        "prompt": "April's discount flowers was having a sale where each flower was 6 dollars. If Katie bought 5 roses and 5 daisies, how much did she spend?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Each rose costs $6.\n2. Katie bought 5 roses, so she spent 5 x $6 = $30 on roses.\n3. Each daisy costs $6.\n4. Katie bought 5 daisies, so she spent 5 x $6 = $30 on daisies.\n5. In total, Katie spent $30 + $30 = $60.\n\nSo, Katie spent $60 on 5 roses and 5 daisies.",
+        "answer": "60"
+    },
+    {
+        "prompt": "A pet store has 9 bird cages. If each cage has 2 parrots and 6 parakeets in it, how many birds does the pet store have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Each cage has 2 parrots.\n2. Each cage also has 6 parakeets.\n3. There are 9 cages in total.\n\nSo, to find out how many birds the pet store has, we need to multiply the number of cages by the number of birds in each cage:\n\n9 x 2 (parrots) = 18\n9 x 6 (parakeets) = 54\n\nAdding these two numbers together gives us a total of 72 birds at the pet store.",
+        "answer": "72"
+    },
+    {
+        "prompt": "Roger was putting his spare change into piles. He had 3 piles of quarters and 3 piles of dimes. If each pile had 7 coins in it, how many coins did he have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Roger had 3 piles of quarters.\n2. Each pile of quarters had 7 coins.\n3. So, he had a total of 3 x 7 = 21 quarters.\n4. Roger also had 3 piles of dimes.\n5. Each pile of dimes had 7 coins.\n6. So, he had a total of 3 x 7 = 21 dimes.\n7. In total, Roger had 21 quarters + 21 dimes = 42 coins.",
+        "answer": "42"
+    },
+    {
+        "prompt": "There were 2 friends playing a video game online when 2 more players joined the game. If each player had 8 lives, how many lives did they have total?",
+        "reasoning": "Sure! Let's think step by step.\n\n1. The first two players had 8 lives each, so together they had 8 + 8 = 16 lives.\n2. When two more players joined the game, each of the original players lost 2 lives (since they now had to share their lives with the new players).\n3. So, the first two players had 16 - 2 = 14 lives left.\n4. The two new players started with 0 lives, but since they joined the game, they also got 8 lives each.\n5. Therefore, the total number of lives among all four players is: 14 + 8 + 8 = 29 lives.",
+        "answer": "32"
+    },
+    {
+        "prompt": "A waiter had 7 tables he was waiting on, with 7 women and 2 men at each table. How many customers total did the waiter have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Each table has 2 men, so there are 2 x 7 = 14 men at the tables.\n2. Each table has 7 women, so there are 7 x 7 = 49 women at the tables.\n3. In total, the waiter has 14 + 49 = 63 customers.",
+        "answer": "63"
+    },
+    {
+        "prompt": "Tiffany was playing a video game where she scores 6 points for each treasure she finds. If she found 3 treasures on the first level and 5 on the second, what would her score be?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Level 1:\nTiffany found 3 treasures, so she scored 3 x 6 = 18 points.\n2. Level 2:\nTiffany found 5 treasures, so she scored 5 x 6 = 30 points.\n\nTotal score: 18 + 30 = 48 points.",
+        "answer": "48"
+    },
+    {
+        "prompt": "While shopping for music online, Zoe bought 3 country albums and 5 pop albums. Each album came with a lyric sheet and had 3 songs. How many songs did Zoe buy total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Zoe bought 3 country albums, and each album had 3 songs. So, she bought a total of 3 x 3 = 9 country songs.\n2. Zoe also bought 5 pop albums, and each album had 3 songs. So, she bought a total of 5 x 3 = 15 pop songs.\n3. In total, Zoe bought 9 country songs and 15 pop songs, for a total of 9 + 15 = 24 songs.",
+        "answer": "24"
+    },
+    {
+        "prompt": "Megan was organizing her book case making sure each of the shelves had exactly 7 books on it. If she had 8 shelves of mystery books and 2 shelves of picture books, how many books did she have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Megan had 8 shelves of mystery books.\n2. Each shelf had exactly 7 books on it.\n3. So, Megan had a total of 8 x 7 = 56 mystery books.\n4. She also had 2 shelves of picture books.\n5. Each shelf had exactly 7 books on it, just like the mystery books.\n6. So, Megan had a total of 2 x 7 = 14 picture books.\n7. Add up all the books: 56 (mystery) + 14 (picture) = 70 books total.\n\nTherefore, Megan had 70 books in her bookcase.",
+        "answer": "70"
+    },
+    {
+        "prompt": "Isabel was selling her necklaces at a garage sale. She sold 3 bead necklaces and 3 gem stone necklaces. If each necklace cost 6 dollars, how much money did she earn?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Bead necklaces:\n\t* Number of necklaces sold = 3\n\t* Price per necklace = $6\n\tTotal amount earned from bead necklaces = 3 x $6 = $18\n2. Gem stone necklaces:\n\t* Number of necklaces sold = 3\n\t* Price per necklace = $6\n\tTotal amount earned from gem stone necklaces = 3 x $6 = $18\n\nAdding both amounts together gives us the total amount earned by Isabel:\n\n$18 + $18 = $36\n\nSo, Isabel earned $36 at her garage sale.",
+        "answer": "36"
+    },
+    {
+        "prompt": "Frank was collecting cans for recycling. On Saturday he filled 5 bags up and on Sunday he filled 3 more bags. If each bag had 5 cans in it, how many cans did he pick up total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. On Saturday, Frank filled 5 bags with cans.\n2. Each bag contained 5 cans.\n3. So, on Saturday, Frank collected a total of 5 x 5 = 25 cans.\n4. On Sunday, Frank filled 3 more bags with cans.\n5. Each bag contained 5 cans, just like before.\n6. So, on Sunday, Frank collected a total of 3 x 5 = 15 cans.\n7. Now, let's add up the total number of cans Frank collected over both days:\n25 (Saturday) + 15 (Sunday) = 40\n\nSo, Frank collected a total of 40 cans for recycling.",
+        "answer": "40"
+    },
+    {
+        "prompt": "April's discount flowers was having a sale where each flower was 8 dollars. If Vanessa bought 3 roses and 3 daisies, how much did she spend?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Each rose costs $8.\n2. Vanessa bought 3 roses, so she spent 3 x $8 = $24 on roses.\n3. Each daisy costs $8 as well.\n4. Vanessa bought 3 daisies, so she spent 3 x $8 = $24 on daisies.\n5. In total, Vanessa spent $24 + $24 = $48 on flowers.",
+        "answer": "48"
+    },
+    {
+        "prompt": "Will was working as a sacker at a grocery store where he made 8 dollars an hour. On Monday he worked 8 hours and on Tuesday he worked 2 hours. How much money did Will make in those two days?",
+        "reasoning": "Sure, let's break it down step by step!\n\nMonday:\n\n* Will worked for 8 hours (from 9am to 5pm)\n* His hourly wage is $8/hour\n\nSo, on Monday, Will earned:\n\n8 hours x $8/hour = $64\n\nTuesday:\n\n* Will worked for 2 hours (from 10am to 12pm)\n* His hourly wage is $8/hour\n\nSo, on Tuesday, Will earned:\n\n2 hours x $8/hour = $16\n\nTotal amount earned in both days:\n\n$64 + $16 = $80\n\nTherefore, Will made $80 in those two days.",
+        "answer": "80"
+    },
+    {
+        "prompt": "Rachel bought 7 new chairs and 3 new tables for her house. If she spent 4 minutes on each piece furniture putting it together, how many minutes did it take her to finish?",
+        "reasoning": "Sure, let's break it down step by step:\n\n1. Chairs: Rachel bought 7 new chairs, so she had to put each chair together for 4 minutes, for a total of:\n\n7 x 4 = 28 minutes\n\n2. Tables: Rachel bought 3 new tables, so she had to put each table together for 4 minutes, for a total of:\n\n3 x 4 = 12 minutes\n\nAdding the time it took to assemble the chairs and tables together, we get:\n\n28 + 12 = 40 minutes\n\nTherefore, it took Rachel 40 minutes to finish assembling all of the furniture.",
+        "answer": "40"
+    },
+    {
+        "prompt": "While playing a trivia game, Adam answered 8 questions correct in the first half and 2 questions correct in the second half. If each question was worth 8 points, what was his final score?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. In the first half, Adam answered 8 questions correctly.\n2. Each question was worth 8 points, so he earned 8 x 8 = 64 points in the first half.\n3. In the second half, Adam answered 2 questions correctly.\n4. Each question was still worth 8 points, so he earned 2 x 8 = 16 points in the second half.\n5. To find Adam's final score, we add his scores from the two halves: 64 + 16 = 80.\n\nSo, Adam's final score is 80.",
+        "answer": "80"
+    },
+    {
+        "prompt": "A pet store has 4 bird cages. If each cage has 8 parrots and 2 parakeets in it, how many birds does the pet store have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Each cage has 8 parrots, so there are 8 x 4 = 32 parrots in total.\n2. Each cage also has 2 parakeets, so there are 2 x 4 = 8 parakeets in total.\n3. Therefore, the pet store has a total of 32 + 8 = 40 birds.",
+        "answer": "40"
+    },
+    {
+        "prompt": "Kaleb was collecting cans for recycling. On Saturday he filled 5 bags up and on Sunday he filled 5 more bags. If each bag had 4 cans in it, how many cans did he pick up total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. On Saturday, Kaleb filled 5 bags with 4 cans in each bag, so he collected a total of 5 x 4 = 20 cans on Saturday.\n2. On Sunday, Kaleb filled 5 more bags with 4 cans in each bag, so he collected a total of 5 x 4 = 20 cans on Sunday.\n3. In total, Kaleb collected 20 + 20 = 40 cans over the weekend.\n\nSo, Kaleb picked up a total of 40 cans for recycling.",
+        "answer": "40"
+    },
+    {
+        "prompt": "Bianca was organizing her book case making sure each of the shelves had exactly 8 books on it. If she had 5 shelves of mystery books and 4 shelves of picture books, how many books did she have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Bianca had 5 shelves of mystery books.\n2. Each shelf had exactly 8 books, so she had 5 x 8 = 40 mystery books.\n3. Bianca also had 4 shelves of picture books.\n4. Each shelf had exactly 8 books, so she had 4 x 8 = 32 picture books.\n5. In total, Bianca had 40 + 32 = 72 books.",
+        "answer": "72"
+    },
+    {
+        "prompt": "Billy was putting his spare change into piles. He had 2 piles of quarters and 3 piles of dimes. If each pile had 4 coins in it, how many coins did he have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Billy had 2 piles of quarters.\n2. Each pile of quarters had 4 coins, so there were 2 x 4 = 8 quarters in total.\n3. Billy also had 3 piles of dimes.\n4. Each pile of dimes had 4 coins, so there were 3 x 4 = 12 dimes in total.\n5. Therefore, Billy had a total of 8 quarters + 12 dimes = 20 coins.",
+        "answer": "20"
+    },
+    {
+        "prompt": "Chloe was playing a video game where she scores 9 points for each treasure she finds. If she found 6 treasures on the first level and 3 on the second, what would her score be?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Level 1:\nChloe found 6 treasures, so she scored 6 x 9 = 54 points.\n2. Level 2:\nChloe found 3 treasures, so she scored 3 x 9 = 27 points.\n\nTotal score: 54 + 27 = 81 points.",
+        "answer": "81"
+    },
+    {
+        "prompt": "While shopping for music online, Nancy bought 3 country albums and 5 pop albums. Each album came with a lyric sheet and had 8 songs. How many songs did Nancy buy total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Country albums: 3 x 8 = 24 songs\n2. Pop albums: 5 x 8 = 40 songs\n\nTotal number of songs: 24 + 40 = 64 songs.",
+        "answer": "64"
+    },
+    {
+        "prompt": "Lana was unboxing some of her old winter clothes. She found 3 boxes of clothing and inside each box there were 3 scarves and 4 mittens. How many pieces of winter clothing did Lana have total?",
+        "reasoning": "Sure, let's break it down step by step:\n\n1. Lana had 3 boxes of clothing.\n2. In each box, she had 3 scarves.\n3. So, in total, she had 3 x 3 = 9 scarves.\n4. In each box, she also had 4 mittens.\n5. So, in total, she had 3 x 4 = 12 mittens.\n6. Therefore, Lana had a total of 9 scarves and 12 mittens, which adds up to 21 pieces of winter clothing.",
+        "answer": "21"
+    },
+    {
+        "prompt": "Frank and his friend were buying trick decks from the magic shop for 7 dollars each. How much did they spend if Frank bought 3 decks and his friend bought 2 decks?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Frank bought 3 decks of cards, so he spent:\n\n3 x $7 = $21\n\n2. His friend bought 2 decks of cards, so she spent:\n\n2 x $7 = $14\n\nIn total, they spent:\n\n$21 + $14 = $35",
+        "answer": "35"
+    },
+    {
+        "prompt": "A waiter had 5 tables he was waiting on, with 5 women and 3 men at each table. How many customers total did the waiter have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. The waiter had 5 tables.\n2. Each table had 3 men.\n3. So, the waiter had 5 x 3 = 15 men at his tables.\n4. Each table also had 5 women.\n5. So, the waiter had 5 x 5 = 25 women at his tables.\n6. In total, the waiter had 15 + 25 = 40 customers.",
+        "answer": "40"
+    },
+    {
+        "prompt": "There were 8 friends playing a video game online when 2 more players joined the game. If each player had 6 lives, how many lives did they have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. There were 8 friends playing a video game online.\n2. Two more players joined the game.\n3. Each player had 6 lives.\n\nSo, let's add the number of lives for the original 8 players to the number of lives for the two new players:\n\n8 players x 6 lives = 48 lives\n2 players x 6 lives = 12 lives\n\nAdding these two numbers together gives us a total of:\n\n48 + 12 = 60 lives\n\nTherefore, the total number of lives for all 10 players is 60.",
+        "answer": "60"
+    },
+    {
+        "prompt": "Sam was collecting cans for recycling. On Saturday he filled 3 bags up and on Sunday he filled 4 more bags. If each bag had 9 cans in it, how many cans did he pick up total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. On Saturday, Sam filled 3 bags with cans.\n2. Each bag contained 9 cans, so he collected a total of 3 x 9 = 27 cans on Saturday.\n3. On Sunday, he filled 4 more bags with cans.\n4. Again, each bag contained 9 cans, so he collected a total of 4 x 9 = 36 cans on Sunday.\n5. In total, Sam collected 27 + 36 = 63 cans over the weekend.\n\nSo, Sam collected 63 cans for recycling.",
+        "answer": "63"
+    },
+    {
+        "prompt": "April's discount flowers was having a sale where each flower was 6 dollars. If Maria bought 7 roses and 3 daisies, how much did she spend?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Each rose costs $6.\n2. Maria bought 7 roses, so she spent 7 x $6 = $42 on roses.\n3. Each daisy costs $6.\n4. Maria bought 3 daisies, so she spent 3 x $6 = $18 on daisies.\n5. Total amount spent by Maria = $42 + $18 = $60.\n\nSo, Maria spent a total of $60 on 7 roses and 3 daisies.",
+        "answer": "60"
+    },
+    {
+        "prompt": "Dave was working as a sacker at a grocery store where he made 6 dollars an hour. On Monday he worked 6 hours and on Tuesday he worked 2 hours. How much money did Dave make in those two days?",
+        "reasoning": "Sure, let's break it down step by step!\n\nMonday:\n\n* Dave worked for 6 hours (from 9am to 3pm)\n* His hourly wage is $6/hour\n* So, he earned $6 x 6 = $36 for the day\n\nTuesday:\n\n* Dave worked for 2 hours (from 10am to 12pm)\n* His hourly wage is $6/hour\n* So, he earned $6 x 2 = $12 for the day\n\nTotal amount earned in both days:\n\n$36 + $12 = $48\n\nTherefore, Dave made $48 in those two days.",
+        "answer": "48"
+    },
+    {
+        "prompt": "Nancy was organizing her book case making sure each of the shelves had exactly 6 books on it. If she had 2 shelves of mystery books and 6 shelves of picture books, how many books did she have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Nancy had 2 shelves of mystery books.\n\t* Each shelf had 6 books, so she had a total of 2 x 6 = 12 mystery books.\n2. She had 6 shelves of picture books.\n\t* Each shelf had 6 books, so she had a total of 6 x 6 = 36 picture books.\n3. In total, Nancy had 12 mystery books + 36 picture books = 48 books.",
+        "answer": "48"
+    },
+    {
+        "prompt": "While shopping for music online, Faye bought 2 country albums and 3 pop albums. Each album came with a lyric sheet and had 6 songs. How many songs did Faye buy total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Faye bought 2 country albums, and each album has 6 songs. So, she bought 2 x 6 = 12 country songs.\n2. Faye also bought 3 pop albums, and each album has 6 songs. So, she bought 3 x 6 = 18 pop songs.\n3. In total, Faye bought 12 + 18 = 30 songs.",
+        "answer": "30"
+    },
+    {
+        "prompt": "Tom was putting his spare change into piles. He had 2 piles of quarters and 4 piles of dimes. If each pile had 5 coins in it, how many coins did he have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Tom had 2 piles of quarters.\n2. Each pile of quarters had 5 coins in it, so he had a total of 2 x 5 = 10 quarters.\n3. Tom also had 4 piles of dimes.\n4. Each pile of dimes had 5 coins in it, so he had a total of 4 x 5 = 20 dimes.\n5. Therefore, Tom had a total of 10 quarters + 20 dimes = 30 coins.",
+        "answer": "30"
+    },
+    {
+        "prompt": "While playing a trivia game, George answered 6 questions correct in the first half and 4 questions correct in the second half. If each question was worth 3 points, what was his final score?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. First half:\nGeorge answered 6 questions correctly, so he scored 6 x 3 = 18 points in the first half.\n2. Second half:\nGeorge answered 4 questions correctly, so he scored 4 x 3 = 12 points in the second half.\n3. Total score:\nAdding up the scores from both halves, George's total score is 18 + 12 = 30 points.\n\nSo, George's final score is 30 points.",
+        "answer": "30"
+    },
+    {
+        "prompt": "Lana was unboxing some of her old winter clothes. She found 4 boxes of clothing and inside each box there were 2 scarves and 6 mittens. How many pieces of winter clothing did Lana have total?",
+        "reasoning": "Sure, let's break it down step by step:\n\n1. Lana had 4 boxes of winter clothing.\n2. In each box, there were 2 scarves. So, in total, Lana had 2 x 4 = 8 scarves.\n3. In each box, there were 6 mittens. So, in total, Lana had 6 x 4 = 24 mittens.\n4. Therefore, Lana had a total of 8 scarves and 24 mittens, which adds up to 32 pieces of winter clothing.",
+        "answer": "32"
+    },
+    {
+        "prompt": "At the town carnival Oliver rode the ferris wheel 7 times and the bumper cars 3 times. If each ride cost 3 tickets, how many tickets did he use?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Ferris Wheel:\nOliver rode the ferris wheel 7 times, so he used 7 x 3 = 21 tickets.\n2. Bumper Cars:\nOliver rode the bumper cars 3 times, so he used 3 x 3 = 9 tickets.\n\nIn total, Oliver used 21 + 9 = 30 tickets.",
+        "answer": "30"
+    },
+    {
+        "prompt": "Sarah had 4 pages of math homework and 6 pages of reading homework. If each page had 4 problems on it, how many problems did she have to complete total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Sarah had 4 pages of math homework.\n2. Each page had 4 problems.\n3. So, Sarah had 4 x 4 = 16 math problems to complete.\n4. Sarah also had 6 pages of reading homework.\n5. Each page had 4 problems.\n6. So, Sarah had 6 x 4 = 24 reading problems to complete.\n7. In total, Sarah had 16 + 24 = 40 problems to complete for her homework.",
+        "answer": "40"
+    },
+    {
+        "prompt": "Kaleb was collecting cans for recycling. On Saturday he filled 4 bags up and on Sunday he filled 6 more bags. If each bag had 4 cans in it, how many cans did he pick up total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. On Saturday, Kaleb filled 4 bags with cans.\n2. Each bag contained 4 cans, so Kaleb collected a total of 4 x 4 = 16 cans on Saturday.\n3. On Sunday, Kaleb filled 6 more bags with cans.\n4. Each bag contained 4 cans, so Kaleb collected a total of 6 x 4 = 24 cans on Sunday.\n5. In total, Kaleb collected 16 + 24 = 40 cans over the weekend.\n\nSo, Kaleb collected 40 cans for recycling.",
+        "answer": "40"
+    },
+    {
+        "prompt": "Edward and his friend were buying trick decks from the magic shop for 6 dollars each. How much did they spend if Edward bought 3 decks and his friend bought 6 decks?",
+        "reasoning": "Sure, let's break it down step by step!\n\n1. Edward bought 3 decks of cards, so he spent:\n\n3 decks x $6 per deck = $18\n\n2. His friend bought 6 decks of cards, so he spent:\n\n6 decks x $6 per deck = $36\n\nIn total, they spent:\n\n$18 + $36 = $54",
+        "answer": "54"
+    },
+    {
+        "prompt": "Emily bought 4 new chairs and 2 new tables for her house. If she spent 8 minutes on each piece furniture putting it together, how many minutes did it take her to finish?",
+        "reasoning": "Sure, let's break it down step by step:\n\n1. Chairs: Emily bought 4 new chairs, so she had to assemble 4 chairs.\n2. Time per chair: 8 minutes per chair\n3. Total time for chairs: 4 chairs x 8 minutes/chair = 32 minutes\n4. Tables: Emily bought 2 new tables, so she had to assemble 2 tables.\n5. Time per table: 8 minutes per table\n6. Total time for tables: 2 tables x 8 minutes/table = 16 minutes\n7. Total time for all furniture: 32 minutes (chairs) + 16 minutes (tables) = 48 minutes\n\nTherefore, it took Emily a total of 48 minutes to finish assembling all the furniture.",
+        "answer": "48"
+    },
+    {
+        "prompt": "A waiter had 9 tables he was waiting on, with 2 women and 6 men at each table. How many customers total did the waiter have?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Each table has 2 women and 6 men, so there are a total of 2 x 6 = 12 men at the tables.\n2. Since there are 9 tables, the total number of customers is 12 x 9 = 108 men.\n3. However, we haven't counted the two women yet.\n4. Each woman is sitting at one of the tables, so there are a total of 2 women.\n5. Therefore, the total number of customers the waiter has is 108 men + 2 women = 110 customers.",
+        "answer": "72"
+    },
+    {
+        "prompt": "There were 4 friends playing a video game online when 5 more players joined the game. If each player had 3 lives, how many lives did they have total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. The four original players each had 3 lives, so together they had:\n\n4 x 3 = 12 lives\n\n2. Then, five more players joined the game, so now there are a total of:\n\n12 + 5 = 17 players\n\n3. Each of the new players also had 3 lives, so together they had:\n\n5 x 3 = 15 lives\n\n4. So, in total, all 17 players have:\n\n12 + 15 = 27 lives\n\nTherefore, the total number of lives among all 17 players is 27.",
+        "answer": "27"
+    },
+    {
+        "prompt": "While shopping for music online, Janet bought 6 country albums and 2 pop albums. Each album came with a lyric sheet and had 9 songs. How many songs did Janet buy total?",
+        "reasoning": "Sure! Let's break it down step by step:\n\n1. Country albums: 6 x 9 = 54 songs\n2. Pop albums: 2 x 9 = 18 songs\n3. Total number of songs: 54 + 18 = 72 songs\n\nSo, Janet bought a total of 72 songs.",
+        "answer": "72"
+    }
+]
