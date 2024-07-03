@@ -32,20 +32,12 @@ Assessed the approach across 6 diverse datasets, covering complex reasoning task
 
 ### Fine Tuning
 
-For fine-tuning the student models three-step approach used:
-* Reasoning generation: Employed the GPT-4 model and Llama2 13B to generate sequential reasoning explanations (ri) for the questions (qi) within the dataset. The prompt was structured as follows: "qi. Think step by step.
-* Prompt completion pairs generation: Utilizing all questions and reasoning explanations, constructed prompt completion pairs
-to fine-tune the student models. These pairs were formatted as follows: prompt="qi", completion="ri –> ai END"
-* Fine-tuning: Used 70% of the data as train data while holding out the remaining 30% data as test data. Prompt completion
-pairs were then serialized into a JSON file to serve as training data, which is subsequently utilized as input for fine-tuning the student
-model. For GPT-3 following hyperparameters were used:(n_epochs=30, batch_size=5,
-learning_rate_multiplier=2). For GPT-2 following hyperparameters were used: 
-(n_epochs=50, per_device_train_batch_size
+For fine-tuning the student models, a three-step approach was used:
+* Reasoning generation: The GPT-4 model and Llama2 13B were employed to generate sequential reasoning explanations (ri) for the questions (qi) within the dataset. The prompt was structured as follows: "qi. Think step by step."
+* Prompt completion pairs generation: Using all questions and reasoning explanations, prompt completion pairs were constructed to fine-tune the student models. These pairs were formatted as follows: prompt="qi", completion="ri –> ai END".
+* Fine-tuning: 70% of the data was used as train data, while the remaining 30% was held out as test data. Prompt completion pairs were serialized into a JSON file to serve as training data, which was subsequently used as input for fine-tuning the student models. For GPT-3, the following hyperparameters were used: (n_epochs=30, batch_size=5, learning_rate_multiplier=2). For GPT-2, the following hyperparameters were used: (n_epochs=50, per_device_train_batch_size= 8, overwrite_output_dir = False).
+
 
 ### Conclusion
-* Larger teacher models (models with more parameters) generate better reasoning samples thus imparting better reasoning ability in the
-student models during fine-tuning.
-* The optimal token length depends upon the
-task to be performed. Date Understanding has
-a smaller maximum token limit than AddSub
-and MultiArith which is smaller than the Shuffled Objects task.
+* Larger teacher models (models with more parameters) generate better reasoning samples, thereby imparting better reasoning ability to the student models during fine-tuning.
+* The optimal token length depends on the task to be performed. Date Understanding has a smaller maximum token limit than AddSub and MultiArith, which is smaller than the Shuffled Objects task.
